@@ -1,4 +1,6 @@
-See https://github.com/libris/swepub-redux/
+To use with https://github.com/libris/swepub-redux/
+
+See https://github.com/NatLibFi/Annif for general Annif instructions and advice.
 
 ## Install and run
 
@@ -6,11 +8,32 @@ See https://github.com/libris/swepub-redux/
 python3 -m venv venv
 source ./venv/bin/activate
 pip install --upgrade pip
-# You might need to install dependencies, e.g. protobuf-compiler in Ubuntu
 pip install -r requirements.txt
+python3 -m nltk.downloader punkt
 annif run -p 8084 # then check http://localhost:8084
-# Or: gunicorn --workers 4 --threads 4 --worker-class gthread --bind 127.0.0.1:8084 "annif:create_app()"
+# Instead of `annif run` (for development only), you could use gunicorn, e.g.:
+# gunicorn --workers 4 --threads 4 --worker-class gthread --bind 127.0.0.1:8084 "annif:create_app()"
+# (...and put behind e.g. nginx in a production environment)
 ```
+
+(For `pip install` to work you might need to install some dependencies, e.g. `protobuf-compiler` in Ubuntu.)
+
+Visit http://localhost:8084 to try the Annif UI. You'll also find Swagger there.
+
+You can also test Annif from the command line, e.g.:
+
+```bash
+echo 'Cardiac troponin I in healthy Norwegian Forest Cat, Birman and domestic shorthair cats, and in cats with hypertrophic cardiomyopathy' | annif suggest swepub-en
+2022-10-11T13:10:35.736Z INFO [omikuji::model] Loading model from data/projects/swepub-en/omikuji-model...
+...
+<https://id.kb.se/term/uka/4> Agricultural and Veterinary sciences  0.8900570869445801
+<https://id.kb.se/term/uka/40303> Clinical Science  0.6352069973945618
+<https://id.kb.se/term/uka/403> Veterinary Science  0.4740253984928131
+<https://id.kb.se/term/uka/106> Biological Sciences (Medical to be 3 and Agricultural to be 4) 0.17030012607574463
+...
+```
+
+(This will be slow as the model has to be loaded each time you use `suggest`; normally you should use the REST API.)
 
 ## Create/update model
 
