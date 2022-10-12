@@ -35,7 +35,10 @@ echo 'Cardiac troponin I in healthy Norwegian Forest Cat, Birman and domestic sh
 
 (This will be slow as the model has to be loaded each time you use `suggest`; normally you should use the REST API.)
 
-## Create/update model
+## Update model
+
+NOTE: this repo already contains a pre-trained model. The following is only if you want to update it (i.e., recreate
+it from scatch).
 
 First, generate corpora. In swepub-redux repo with the swepub-redux venv:
 
