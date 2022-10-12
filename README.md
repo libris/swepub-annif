@@ -10,15 +10,15 @@ source ./venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 python3 -m nltk.downloader punkt
-annif run -p 8084 # then check http://localhost:8084
+annif run -p 8083 # then check http://localhost:8083
 # Instead of `annif run` (for development only), you could use gunicorn, e.g.:
-# gunicorn --workers 4 --threads 4 --worker-class gthread --bind 127.0.0.1:8084 "annif:create_app()"
+# gunicorn --workers 4 --threads 4 --worker-class gthread --bind 127.0.0.1:8083 "annif:create_app()"
 # (...and put behind e.g. nginx in a production environment)
 ```
 
 (For `pip install` to work you might need to install some dependencies, e.g. `protobuf-compiler` in Ubuntu.)
 
-Visit http://localhost:8084 to try the Annif UI. You'll also find Swagger there.
+Visit http://localhost:8083 to try the Annif UI. You'll also find Swagger there.
 
 You can also test Annif from the command line, e.g.:
 
