@@ -1,309 +1,309 @@
-uri,notation,label_en,label_sv
-https://id.kb.se/term/uka/1,,Natural sciences,Naturvetenskap
-https://id.kb.se/term/uka/101,,Mathematics,Matematik
-https://id.kb.se/term/uka/10101,,Mathematical Analysis,Matematisk analys
-https://id.kb.se/term/uka/10102,,Geometry,Geometri
-https://id.kb.se/term/uka/10103,,Algebra and Logic,Algebra och logik
-https://id.kb.se/term/uka/10104,,Discrete Mathematics,Diskret matematik
-https://id.kb.se/term/uka/10105,,Computational Mathematics,Beräkningsmatematik
-https://id.kb.se/term/uka/10106,,Probability Theory and Statistics,Sannolikhetsteori och statistik
-https://id.kb.se/term/uka/10199,,Other Mathematics,Annan matematik
-https://id.kb.se/term/uka/102,,Computer and Information Sciences,Data- och informationsvetenskap (Datateknik)
-https://id.kb.se/term/uka/10201,,Computer Sciences,Datavetenskap (datalogi)
-https://id.kb.se/term/uka/10202,,Information Systems (Social aspects to be 50804),"Systemvetenskap, informationssystem och informatik (samhällsvetenskaplig inriktning under 50804)"
-https://id.kb.se/term/uka/10203,,Bioinformatics (Computational Biology) (applications to be 10610),Bioinformatik (beräkningsbiologi) (tillämpningar under 10610)
-https://id.kb.se/term/uka/10204,,Human Computer Interaction (Social aspects to be 50803),Människa-datorinteraktion (interaktionsdesign) (Samhällsvetenskapliga aspekter under 50803)
-https://id.kb.se/term/uka/10205,,Software Engineering,Programvaruteknik
-https://id.kb.se/term/uka/10206,,Computer Engineering,Datorteknik
-https://id.kb.se/term/uka/10207,,Computer Vision and Robotics (Autonomous Systems),Datorseende och robotik (autonoma system)
-https://id.kb.se/term/uka/10208,,Language Technology (Computational Linguistics),Språkteknologi (språkvetenskaplig databehandling)
-https://id.kb.se/term/uka/10209,,Media and Communication Technology,Medieteknik
-https://id.kb.se/term/uka/10299,,Other Computer and Information Science,Annan data- och informationsvetenskap
-https://id.kb.se/term/uka/103,,Physical Sciences,Fysik
-https://id.kb.se/term/uka/10301,,Subatomic Physics,Subatomär fysik
-https://id.kb.se/term/uka/10302,,Atom and Molecular Physics and Optics,Atom- och molekylfysik och optik
-https://id.kb.se/term/uka/10303,,"Fusion, Plasma and Space Physics","Fusion, plasma och rymdfysik"
-https://id.kb.se/term/uka/10304,,Condensed Matter Physics,Den kondenserade materiens fysik
-https://id.kb.se/term/uka/10305,,"Astronomy, Astrophysics and Cosmology","Astronomi, astrofysik och kosmologi"
-https://id.kb.se/term/uka/10306,,Accelerator Physics and Instrumentation,Acceleratorfysik och instrumentering
-https://id.kb.se/term/uka/10399,,Other Physics Topics,Annan fysik
-https://id.kb.se/term/uka/104,,Chemical Sciences,Kemi
-https://id.kb.se/term/uka/10401,,Analytical Chemistry,Analytisk kemi
-https://id.kb.se/term/uka/10402,,Physical Chemistry,Fysikalisk kemi
-https://id.kb.se/term/uka/10403,,Materials Chemistry,Materialkemi
-https://id.kb.se/term/uka/10404,,Inorganic Chemistry,Oorganisk kemi
-https://id.kb.se/term/uka/10405,,Organic Chemistry,Organisk kemi
-https://id.kb.se/term/uka/10406,,Polymer Chemistry,Polymerkemi
-https://id.kb.se/term/uka/10407,,Theoretical Chemistry,Teoretisk kemi
-https://id.kb.se/term/uka/10499,,Other Chemistry Topics,Annan kemi
-https://id.kb.se/term/uka/105,,Earth and Related Environmental Sciences,Geovetenskap och miljövetenskap
-https://id.kb.se/term/uka/10501,,Climate Research,Klimatforskning
-https://id.kb.se/term/uka/10502,,Environmental Sciences (social aspects to be 507),Miljövetenskap (Samhällsvetenskapliga aspekter under 507)
-https://id.kb.se/term/uka/10503,,"Geosciences, Multidisciplinary",Multidisciplinär geovetenskap
-https://id.kb.se/term/uka/10504,,Geology,Geologi
-https://id.kb.se/term/uka/10505,,Geophysics,Geofysik
-https://id.kb.se/term/uka/10506,,Geochemistry,Geokemi
-https://id.kb.se/term/uka/10507,,Physical Geography,Naturgeografi
-https://id.kb.se/term/uka/10508,,Meteorology and Atmospheric Sciences,Meteorologi och atmosfärforskning
-https://id.kb.se/term/uka/10509,,"Oceanography, Hydrology and Water Resources","Oceanografi, hydrologi och vattenresurser"
-https://id.kb.se/term/uka/10599,,Other Earth and Related Environmental Sciences,Annan geovetenskap och miljövetenskap
-https://id.kb.se/term/uka/106,,Biological Sciences  (Medical to be 3 and Agricultural to be 4),Biologi (Medicinska tillämpningar under 3 och lantbruksvetenskapliga under 4)
-https://id.kb.se/term/uka/10601,,Structural Biology,Strukturbiologi
-https://id.kb.se/term/uka/10602,,Biochemistry and Molecular Biology,Biokemi och molekylärbiologi
-https://id.kb.se/term/uka/10603,,Biophysics,Biofysik
-https://id.kb.se/term/uka/10604,,Cell Biology,Cellbiologi
-https://id.kb.se/term/uka/10605,,Immunology (medical  to be 30110 and agricultural to be 40302),Immunologi (medicinsk under 30110 och lantbruksvetenskaplig under 40302)
-https://id.kb.se/term/uka/10606,,Microbiology (medical  to be 30109 and agricultural to be 40302),Mikrobiologi (medicinsk under 30109 och lantbruksvetenskaplig under 40302)
-https://id.kb.se/term/uka/10607,,Botany,Botanik
-https://id.kb.se/term/uka/10608,,Zoology,Zoologi
-https://id.kb.se/term/uka/10609,,Genetics (medical to be 30107 and agricultural to be 40402),Genetik (medicinsk under 30107 och lantbruksvetenskaplig under 40402)
-https://id.kb.se/term/uka/10610,,Bioinformatics and Systems Biology (methods development to be 10203),Bioinformatik och systembiologi (metodutveckling under 10203)
-https://id.kb.se/term/uka/10611,,Ecology,Ekologi
-https://id.kb.se/term/uka/10612,,Biological Systematics,Biologisk systematik
-https://id.kb.se/term/uka/10613,,Behavioural Sciences Biology,Etologi
-https://id.kb.se/term/uka/10614,,Developmental Biology,Utvecklingsbiologi
-https://id.kb.se/term/uka/10615,,Evolutionary Biology,Evolutionsbiologi
-https://id.kb.se/term/uka/10699,,Other Biological Topics,Annan biologi
-https://id.kb.se/term/uka/107,,Other Natural Sciences,Annan naturvetenskap
-https://id.kb.se/term/uka/10799,,Other Natural Sciences not elsewhere specified,Övrig annan naturvetenskap
-https://id.kb.se/term/uka/2,,Engineering and Technology,Teknik
-https://id.kb.se/term/uka/201,,Civil Engineering,Samhällsbyggnadsteknik
-https://id.kb.se/term/uka/20101,,Architectural Engineering,Arkitekturteknik
-https://id.kb.se/term/uka/20102,,Construction Management,Byggproduktion
-https://id.kb.se/term/uka/20103,,Building Technologies,Husbyggnad
-https://id.kb.se/term/uka/20104,,Infrastructure Engineering,Infrastrukturteknik
-https://id.kb.se/term/uka/20105,,Transport Systems and Logistics,Transportteknik och logistik
-https://id.kb.se/term/uka/20106,,Geotechnical Engineering,Geoteknik
-https://id.kb.se/term/uka/20107,,Water Engineering,Vattenteknik
-https://id.kb.se/term/uka/20108,,Environmental Analysis and  Construction Information Technology,Miljöanalys och bygginformationsteknik
-https://id.kb.se/term/uka/20199,,Other Civil Engineering,Annan samhällsbyggnadsteknik
-https://id.kb.se/term/uka/202,,"Electrical Engineering, Electronic Engineering, Information Engineering",Elektroteknik och elektronik
-https://id.kb.se/term/uka/20201,,Robotics,Robotteknik och automation
-https://id.kb.se/term/uka/20202,,Control Engineering,Reglerteknik
-https://id.kb.se/term/uka/20203,,Communication Systems,Kommunikationssystem
-https://id.kb.se/term/uka/20204,,Telecommunications,Telekommunikation
-https://id.kb.se/term/uka/20205,,Signal Processing,Signalbehandling
-https://id.kb.se/term/uka/20206,,Computer Systems,Datorsystem
-https://id.kb.se/term/uka/20207,,Embedded Systems,Inbäddad systemteknik
-https://id.kb.se/term/uka/20299,,"Other Electrical Engineering, Electronic Engineering, Information Engineering",Annan elektroteknik och elektronik
-https://id.kb.se/term/uka/203,,Mechanical Engineering,Maskinteknik
-https://id.kb.se/term/uka/20301,,Applied Mechanics,Teknisk mekanik
-https://id.kb.se/term/uka/20302,,Aerospace Engineering,Rymd- och flygteknik
-https://id.kb.se/term/uka/20303,,Vehicle Engineering,Farkostteknik
-https://id.kb.se/term/uka/20304,,Energy Engineering,Energiteknik
-https://id.kb.se/term/uka/20305,,Reliability and Maintenance,Tillförlitlighets- och kvalitetsteknik
-https://id.kb.se/term/uka/20306,,Fluid Mechanics and Acoustics,Strömningsmekanik och akustik
-https://id.kb.se/term/uka/20307,,"Production Engineering, Human Work Science and Ergonomics","Produktionsteknik, arbetsvetenskap och ergonomi"
-https://id.kb.se/term/uka/20308,,"Tribology (interacting surfaces including Friction, Lubrication and Wear)","Tribologi (ytteknik omfattande friktion, nötning och smörjning)"
-https://id.kb.se/term/uka/20399,,Other Mechanical Engineering,Annan maskinteknik
-https://id.kb.se/term/uka/204,,Chemical Engineering,Kemiteknik
-https://id.kb.se/term/uka/20401,,Chemical Process Engineering,Kemiska processer
-https://id.kb.se/term/uka/20402,,Corrosion Engineering,Korrosionsteknik
-https://id.kb.se/term/uka/20403,,Polymer Technologies,Polymerteknologi
-https://id.kb.se/term/uka/20404,,Pharmaceutical Chemistry,Farmaceutisk synteskemi
-https://id.kb.se/term/uka/20499,,Other Chemical Engineering,Annan kemiteknik
-https://id.kb.se/term/uka/205,,Materials Engineering,Materialteknik
-https://id.kb.se/term/uka/20501,,Ceramics,Keramteknik
-https://id.kb.se/term/uka/20502,,Composite Science and Engineering,Kompositmaterial och -teknik
-https://id.kb.se/term/uka/20503,,"Paper, Pulp and Fiber Technology","Pappers-, massa-  och fiberteknik"
-https://id.kb.se/term/uka/20504,,"Textile, Rubber and Polymeric Materials","Textil-, gummi- och polymermaterial"
-https://id.kb.se/term/uka/20505,,"Manufacturing, Surface and Joining Technology","Bearbetnings-, yt- och fogningsteknik"
-https://id.kb.se/term/uka/20506,,Metallurgy and Metallic Materials,Metallurgi och metalliska material
-https://id.kb.se/term/uka/20599,,Other Materials Engineering,Annan materialteknik
-https://id.kb.se/term/uka/206,,Medical Engineering,Medicinteknik
-https://id.kb.se/term/uka/20601,,Medical Laboratory and Measurements Technologies,Medicinsk laboratorie- och mätteknik
-https://id.kb.se/term/uka/20602,,Medical Materials,Medicinsk material- och protesteknik
-https://id.kb.se/term/uka/20603,,Medical Image Processing,Medicinsk bildbehandling
-https://id.kb.se/term/uka/20604,,Medical Equipment Engineering,Medicinsk apparatteknik
-https://id.kb.se/term/uka/20605,,Medical Ergonomics,Medicinsk ergonomi
-https://id.kb.se/term/uka/20699,,Other Medical Engineering,Annan medicinteknik
-https://id.kb.se/term/uka/207,,Environmental Engineering,Naturresursteknik
-https://id.kb.se/term/uka/20701,,Geophysical Engineering,Geofysisk teknik
-https://id.kb.se/term/uka/20702,,Energy Systems,Energisystem
-https://id.kb.se/term/uka/20703,,Remote Sensing,Fjärranalysteknik
-https://id.kb.se/term/uka/20704,,Mineral and Mine Engineering,Mineral- och gruvteknik
-https://id.kb.se/term/uka/20705,,Marine Engineering,Marin teknik
-https://id.kb.se/term/uka/20706,,Ocean and River Engineering,Havs- och vattendragsteknik
-https://id.kb.se/term/uka/20707,,Environmental Management,Miljöledning
-https://id.kb.se/term/uka/20799,,Other Environmental Engineering,Annan naturresursteknik
-https://id.kb.se/term/uka/208,,Environmental Biotechnology,Miljöbioteknik
-https://id.kb.se/term/uka/20801,,Bioremediation,Biosanering
-https://id.kb.se/term/uka/20802,,Diagnostic Biotechnology,Diagnostisk bioteknologi
-https://id.kb.se/term/uka/20803,,Water Treatment,Vattenbehandling
-https://id.kb.se/term/uka/20804,,Bioethics,Bioteknisk etik
-https://id.kb.se/term/uka/20899,,Other Environmental Biotechnology,Annan miljöbioteknik
-https://id.kb.se/term/uka/209,,Industrial Biotechnology,Industriell bioteknik
-https://id.kb.se/term/uka/20901,,Bioprocess Technology,Bioprocessteknik
-https://id.kb.se/term/uka/20902,,Biochemicals,Biokemikalier
-https://id.kb.se/term/uka/20903,,Bio Materials,Biomaterial
-https://id.kb.se/term/uka/20904,,Bioenergy,Bioenergi
-https://id.kb.se/term/uka/20905,,Pharmaceutical Biotechnology,Läkemedelsbioteknik
-https://id.kb.se/term/uka/20906,,Biocatalysis and Enzyme Technology,Biokatalys och enzymteknik
-https://id.kb.se/term/uka/20907,,Bioengineering Equipment,Bioteknisk apparatteknik
-https://id.kb.se/term/uka/20908,,Medical Biotechnology,Medicinsk bioteknik
-https://id.kb.se/term/uka/20999,,Other Industrial Biotechnology,Annan industriell bioteknik
-https://id.kb.se/term/uka/210,,Nano-technology,Nanoteknik
-https://id.kb.se/term/uka/21001,,Nano-technology,Nanoteknik
-https://id.kb.se/term/uka/211,,Other Engineering and Technologies,Annan teknik
-https://id.kb.se/term/uka/21101,,Food Engineering,Livsmedelsteknik
-https://id.kb.se/term/uka/21102,,Media Engineering,Mediateknik
-https://id.kb.se/term/uka/21103,,Interaction Technologies,Interaktionsteknik
-https://id.kb.se/term/uka/21199,,Other Engineering and Technologies not elsewhere specified,Övrig annan teknik
-https://id.kb.se/term/uka/3,,Medical and Health Sciences,Medicin och hälsovetenskap
-https://id.kb.se/term/uka/301,,Basic Medicine,Medicinska och farmaceutiska grundvetenskaper
-https://id.kb.se/term/uka/30101,,Pharmaceutical Sciences,Farmaceutiska vetenskaper
-https://id.kb.se/term/uka/30102,,Pharmacology and Toxicology,Farmakologi och toxikologi
-https://id.kb.se/term/uka/30103,,Medicinal Chemistry,Läkemedelskemi
-https://id.kb.se/term/uka/30104,,Social and Clinical Pharmacy,Samhällsfarmaci och klinisk farmaci
-https://id.kb.se/term/uka/30105,,Neurosciences,Neurovetenskaper
-https://id.kb.se/term/uka/30106,,Physiology,Fysiologi
-https://id.kb.se/term/uka/30107,,Medical Genetics,Medicinsk genetik
-https://id.kb.se/term/uka/30108,,Cell and Molecular Biology,Cell- och molekylärbiologi
-https://id.kb.se/term/uka/30109,,Microbiology in the medical area,Mikrobiologi inom det medicinska området
-https://id.kb.se/term/uka/30110,,Immunology in the medical area,Immunologi inom det medicinska området
-https://id.kb.se/term/uka/30199,,Other Basic Medicine,Andra medicinska och farmaceutiska grundvetenskaper
-https://id.kb.se/term/uka/302,,Clinical Medicine,Klinisk medicin
-https://id.kb.se/term/uka/30201,,Anesthesiology and Intensive Care,Anestesi och intensivvård
-https://id.kb.se/term/uka/30202,,Hematology,Hematologi
-https://id.kb.se/term/uka/30203,,Cancer and Oncology,Cancer och onkologi
-https://id.kb.se/term/uka/30204,,Dermatology and Venereal Diseases,Dermatologi och venereologi
-https://id.kb.se/term/uka/30205,,Endocrinology and Diabetes,Endokrinologi och diabetes
-https://id.kb.se/term/uka/30206,,Cardiac and Cardiovascular Systems,Kardiologi
-https://id.kb.se/term/uka/30207,,Neurology,Neurologi
-https://id.kb.se/term/uka/30208,,"Radiology, Nuclear Medicine and Medical Imaging",Radiologi och bildbehandling
-https://id.kb.se/term/uka/30209,,Infectious Medicine,Infektionsmedicin
-https://id.kb.se/term/uka/30210,,Rheumatology and Autoimmunity,Reumatologi och inflammation
-https://id.kb.se/term/uka/30211,,Orthopaedics,Ortopedi
-https://id.kb.se/term/uka/30212,,Surgery,Kirurgi
-https://id.kb.se/term/uka/30213,,Gastroenterology and Hepatology,Gastroenterologi
-https://id.kb.se/term/uka/30214,,Urology and Nephrology,Urologi och njurmedicin
-https://id.kb.se/term/uka/30215,,Psychiatry,Psykiatri
-https://id.kb.se/term/uka/30216,,Dentistry,Odontologi
-https://id.kb.se/term/uka/30217,,Ophthalmology,Oftalmologi
-https://id.kb.se/term/uka/30218,,Otorhinolaryngology,Oto-rhino-laryngologi
-https://id.kb.se/term/uka/30219,,Respiratory Medicine and Allergy,Lungmedicin och allergi
-https://id.kb.se/term/uka/30220,,"Obstetrics, Gynaecology and Reproductive Medicine",Reproduktionsmedicin och gynekologi
-https://id.kb.se/term/uka/30221,,Pediatrics,Pediatrik
-https://id.kb.se/term/uka/30222,,Geriatrics,Geriatrik
-https://id.kb.se/term/uka/30223,,Clinical Laboratory Medicine,Klinisk laboratoriemedicin
-https://id.kb.se/term/uka/30224,,General Practice,Allmänmedicin
-https://id.kb.se/term/uka/30299,,Other Clinical Medicine,Annan klinisk medicin
-https://id.kb.se/term/uka/303,,Health Sciences,Hälsovetenskap
-https://id.kb.se/term/uka/30301,,"Health Care Service and Management, Health Policy and Services and Health Economy","Hälso- och sjukvårdsorganisation, hälsopolitik och hälsoekonomi"
-https://id.kb.se/term/uka/30302,,"Public Health, Global Health, Social Medicine and Epidemiology","Folkhälsovetenskap, global hälsa, socialmedicin och epidemiologi"
-https://id.kb.se/term/uka/30303,,Occupational Health and Environmental Health,Arbetsmedicin och miljömedicin
-https://id.kb.se/term/uka/30304,,Nutrition and Dietetics,Näringslära
-https://id.kb.se/term/uka/30305,,Nursing,Omvårdnad
-https://id.kb.se/term/uka/30306,,Occupational Therapy,Arbetsterapi
-https://id.kb.se/term/uka/30307,,Physiotherapy,Sjukgymnastik
-https://id.kb.se/term/uka/30308,,Sport and Fitness Sciences,Idrottsvetenskap
-https://id.kb.se/term/uka/30309,,Substance Abuse,Beroendelära
-https://id.kb.se/term/uka/30310,,Medical Ethics,Medicinsk etik
-https://id.kb.se/term/uka/30399,,Other Health Sciences,Annan hälsovetenskap
-https://id.kb.se/term/uka/304,,Medical Biotechnology,Medicinsk bioteknologi
-https://id.kb.se/term/uka/30401,,"Medical Biotechnology (focus on Cell Biology (incl. Stem Cell Biology), Molecular Biology, Microbiology, Biochemistry or Biopharmacy)","Medicinsk bioteknologi (inriktn. mot cellbiologi (inkl. stamcellsbiologi), molekylärbiologi, mikrobiologi, biokemi eller biofarmaci)"
-https://id.kb.se/term/uka/30402,,Biomedical Laboratory Science/Technology,Biomedicinsk laboratorievetenskap/teknologi
-https://id.kb.se/term/uka/30403,,Biomaterials Science,Biomaterialvetenskap
-https://id.kb.se/term/uka/30499,,Other Medical Biotechnology,Annan medicinsk bioteknologi
-https://id.kb.se/term/uka/305,,Other Medical and Health Sciences,Annan medicin och hälsovetenskap
-https://id.kb.se/term/uka/30501,,Forensic Science,Rättsmedicin
-https://id.kb.se/term/uka/30502,,"Gerontology, specialising in Medical and Health Sciences (specialising in Social Sciences to be 50999)","Gerontologi, medicinsk/hälsovetenskaplig inriktning  (Samhällsvetenskaplig inriktn.under 50999)"
-https://id.kb.se/term/uka/30599,,Other Medical and Health Sciences not elsewhere specified,Övrig annan medicin och hälsovetenskap
-https://id.kb.se/term/uka/4,,Agricultural and Veterinary sciences,Lantbruksvetenskap och veterinärmedicin
-https://id.kb.se/term/uka/401,,"Agriculture, Forestry and Fisheries","Lantbruksvetenskap, skogsbruk och fiske"
-https://id.kb.se/term/uka/40101,,Agricultural Science,Jordbruksvetenskap
-https://id.kb.se/term/uka/40102,,Horticulture,Trädgårdsvetenskap/hortikultur
-https://id.kb.se/term/uka/40103,,Food Science,Livsmedelsvetenskap
-https://id.kb.se/term/uka/40104,,Forest Science,Skogsvetenskap
-https://id.kb.se/term/uka/40105,,Wood Science,Trävetenskap
-https://id.kb.se/term/uka/40106,,Soil Science,Markvetenskap
-https://id.kb.se/term/uka/40107,,Fish and Aquacultural Science,Fisk- och akvakulturforskning
-https://id.kb.se/term/uka/40108,,Landscape Architecture,Landskapsarkitektur
-https://id.kb.se/term/uka/402,,Animal and Dairy Sience,Husdjursvetenskap
-https://id.kb.se/term/uka/40201,,Animal and Dairy Science.,Husdjursvetenskap
-https://id.kb.se/term/uka/403,,Veterinary Science,Veterinärmedicin
-https://id.kb.se/term/uka/40301,,Medical Bioscience,Medicinsk biovetenskap
-https://id.kb.se/term/uka/40302,,Pathobiology,Patobiologi
-https://id.kb.se/term/uka/40303,,Clinical Science,Klinisk vetenskap
-https://id.kb.se/term/uka/40304,,Other Veterinary Science,Annan veterinärmedicin
-https://id.kb.se/term/uka/404,,Agricultural Biotechnology,Bioteknologi med applikationer på växter och djur
-https://id.kb.se/term/uka/40401,,Plant Biotechnology,Växtbioteknologi
-https://id.kb.se/term/uka/40402,,Genetics and Breeding in Agricultural Sciences,Genetik och förädling inom lantbruksvetenskap
-https://id.kb.se/term/uka/405,,Other Agricultural Sciences,Annan lantbruksvetenskap
-https://id.kb.se/term/uka/40501,,Renewable Bioenergy Research,Förnyelsebar bioenergi
-https://id.kb.se/term/uka/40502,,Fish and Wildlife Management,Vilt- och fiskeförvaltning
-https://id.kb.se/term/uka/40503,,Agricultural Occupational Health and Safety,Lantbrukets arbetsmiljö och säkerhet
-https://id.kb.se/term/uka/40504,,Environmental Sciences related to Agriculture and Land-use,Miljö- och  naturvårdsvetenskap
-https://id.kb.se/term/uka/40599,,Other Agricultural Sciences not elsewhere specified,Övrig annan lantbruksvetenskap
-https://id.kb.se/term/uka/5,,Social Sciences,Samhällsvetenskap
-https://id.kb.se/term/uka/501,,Psychology,Psykologi
-https://id.kb.se/term/uka/50101,,Psychology (excluding Applied Psychology),Psykologi  (exklusive tillämpad psykologi)
-https://id.kb.se/term/uka/50102,,Applied Psychology,Tillämpad psykologi
-https://id.kb.se/term/uka/502,,Economics and Business,Ekonomi och näringsliv
-https://id.kb.se/term/uka/50201,,Economics,Nationalekonomi
-https://id.kb.se/term/uka/50202,,Business Administration,Företagsekonomi
-https://id.kb.se/term/uka/50203,,Economic History,Ekonomisk historia
-https://id.kb.se/term/uka/503,,Educational Sciences,Utbildningsvetenskap
-https://id.kb.se/term/uka/50301,,Pedagogy,Pedagogik
-https://id.kb.se/term/uka/50302,,Didactics,Didaktik
-https://id.kb.se/term/uka/50303,,Learning,Lärande
-https://id.kb.se/term/uka/50304,,Pedagogical Work,Pedagogiskt arbete
-https://id.kb.se/term/uka/504,,Sociology,Sociologi
-https://id.kb.se/term/uka/50401,,"Sociology (excluding Social Work, Social Psychology and Social Anthropology)","Sociologi (exklusive socialt arbete, socialpsykologi och socialantropologi)"
-https://id.kb.se/term/uka/50402,,Social Work,Socialt arbete
-https://id.kb.se/term/uka/50403,,Social Psychology,Socialpsykologi
-https://id.kb.se/term/uka/50404,,Social Anthropology,Socialantropologi
-https://id.kb.se/term/uka/505,,Law,Juridik
-https://id.kb.se/term/uka/50501,,Law (excluding Law and Society),Juridik (exklusive juridik och samhälle)
-https://id.kb.se/term/uka/50502,,Law and Society,Juridik och samhälle
-https://id.kb.se/term/uka/506,,Political Science,Statsvetenskap
-https://id.kb.se/term/uka/50601,,Political Science (excluding Public Administration Studies and Globalisation Studies),Statsvetenskap (exklusive studier av offentlig förvaltning och globaliseringsstudier)
-https://id.kb.se/term/uka/50602,,Public Administration Studies,Studier av offentlig förvaltning
-https://id.kb.se/term/uka/50603,,Globalisation Studies,Globaliseringsstudier
-https://id.kb.se/term/uka/507,,Social and Economic Geography,Social och ekonomisk geografi
-https://id.kb.se/term/uka/50701,,Human Geography,Kulturgeografi
-https://id.kb.se/term/uka/50702,,Economic Geography,Ekonomisk geografi
-https://id.kb.se/term/uka/508,,Media and Communications,Medie- och kommunikationsvetenskap
-https://id.kb.se/term/uka/50801,,Media Studies,Medievetenskap
-https://id.kb.se/term/uka/50802,,Communication Studies,Kommunikationsvetenskap
-https://id.kb.se/term/uka/50803,,Human Aspects of ICT,Mänsklig interaktion med IKT
-https://id.kb.se/term/uka/50804,,"Information Systems, Social aspects","Systemvetenskap, informationssystem och informatik med samhällsvetenskaplig inriktning"
-https://id.kb.se/term/uka/50805,,Information Studies,Biblioteks-och informationsvetenskap
-https://id.kb.se/term/uka/509,,Other Social Sciences,Annan samhällsvetenskap
-https://id.kb.se/term/uka/50901,,Social Sciences Interdisciplinary,Tvärvetenskapliga studier inom samhällsvetenskap
-https://id.kb.se/term/uka/50902,,Gender Studies,Genusstudier
-https://id.kb.se/term/uka/50903,,Work Sciences,Arbetslivsstudier
-https://id.kb.se/term/uka/50904,,International Migration and Ethnic Relations,Internationell migration och etniska relationer (IMER)
-https://id.kb.se/term/uka/50999,,Other Social Sciences not elsewhere specified,Övrig annan samhällsvetenskap
-https://id.kb.se/term/uka/6,,Humanities and the Arts,Humaniora och konst
-https://id.kb.se/term/uka/601,,History and Archaeology,Historia och arkeologi
-https://id.kb.se/term/uka/60101,,History,Historia
-https://id.kb.se/term/uka/60102,,History of Technology,Teknikhistoria
-https://id.kb.se/term/uka/60103,,Archaeology,Arkeologi
-https://id.kb.se/term/uka/602,,Languages and Literature,Språk och litteratur
-https://id.kb.se/term/uka/60201,,General Language Studies and Linguistics,Jämförande språkvetenskap och allmän lingvistik
-https://id.kb.se/term/uka/60202,,Specific Languages,Studier av enskilda språk
-https://id.kb.se/term/uka/60203,,General Literary studies,Litteraturvetenskap
-https://id.kb.se/term/uka/60204,,Specific Literatures,Litteraturstudier
-https://id.kb.se/term/uka/603,,"Philosophy, Ethics and Religion","Filosofi, etik och religion"
-https://id.kb.se/term/uka/60301,,Philosophy,Filosofi
-https://id.kb.se/term/uka/60302,,Ethics,Etik
-https://id.kb.se/term/uka/60303,,Religious Studies,Religionsvetenskap
-https://id.kb.se/term/uka/60304,,History of Religions,Religionshistoria
-https://id.kb.se/term/uka/60305,,History of Ideas,Idé- och lärdomshistoria
-https://id.kb.se/term/uka/604,,Arts,Konst
-https://id.kb.se/term/uka/60401,,Visual Arts,Bildkonst
-https://id.kb.se/term/uka/60402,,Music,Musik
-https://id.kb.se/term/uka/60403,,Literary Composition,Litterär gestaltning
-https://id.kb.se/term/uka/60404,,Performing Arts,Scenkonst
-https://id.kb.se/term/uka/60405,,Architecture,Arkitektur
+uri,notation,label_sv,label_en
+https://id.kb.se/term/uka/1,,Naturvetenskap,Natural sciences
+https://id.kb.se/term/uka/101,,Matematik,Mathematics
+https://id.kb.se/term/uka/10101,,Matematisk analys,Mathematical Analysis
+https://id.kb.se/term/uka/10102,,Geometri,Geometry
+https://id.kb.se/term/uka/10103,,Algebra och logik,Algebra and Logic
+https://id.kb.se/term/uka/10104,,Diskret matematik,Discrete Mathematics
+https://id.kb.se/term/uka/10105,,Beräkningsmatematik,Computational Mathematics
+https://id.kb.se/term/uka/10106,,Sannolikhetsteori och statistik,Probability Theory and Statistics
+https://id.kb.se/term/uka/10199,,Annan matematik,Other Mathematics
+https://id.kb.se/term/uka/102,,Data- och informationsvetenskap (Datateknik),Computer and Information Sciences
+https://id.kb.se/term/uka/10201,,Datavetenskap (datalogi),Computer Sciences
+https://id.kb.se/term/uka/10202,,"Systemvetenskap, informationssystem och informatik (samhällsvetenskaplig inriktning under 50804)",Information Systems (Social aspects to be 50804)
+https://id.kb.se/term/uka/10203,,Bioinformatik (beräkningsbiologi) (tillämpningar under 10610),Bioinformatics (Computational Biology) (applications to be 10610)
+https://id.kb.se/term/uka/10204,,Människa-datorinteraktion (interaktionsdesign) (Samhällsvetenskapliga aspekter under 50803),Human Computer Interaction (Social aspects to be 50803)
+https://id.kb.se/term/uka/10205,,Programvaruteknik,Software Engineering
+https://id.kb.se/term/uka/10206,,Datorteknik,Computer Engineering
+https://id.kb.se/term/uka/10207,,Datorseende och robotik (autonoma system),Computer Vision and Robotics (Autonomous Systems)
+https://id.kb.se/term/uka/10208,,Språkteknologi (språkvetenskaplig databehandling),Language Technology (Computational Linguistics)
+https://id.kb.se/term/uka/10209,,Medieteknik,Media and Communication Technology
+https://id.kb.se/term/uka/10299,,Annan data- och informationsvetenskap,Other Computer and Information Science
+https://id.kb.se/term/uka/103,,Fysik,Physical Sciences
+https://id.kb.se/term/uka/10301,,Subatomär fysik,Subatomic Physics
+https://id.kb.se/term/uka/10302,,Atom- och molekylfysik och optik,Atom and Molecular Physics and Optics
+https://id.kb.se/term/uka/10303,,"Fusion, plasma och rymdfysik","Fusion, Plasma and Space Physics"
+https://id.kb.se/term/uka/10304,,Den kondenserade materiens fysik,Condensed Matter Physics
+https://id.kb.se/term/uka/10305,,"Astronomi, astrofysik och kosmologi","Astronomy, Astrophysics and Cosmology"
+https://id.kb.se/term/uka/10306,,Acceleratorfysik och instrumentering,Accelerator Physics and Instrumentation
+https://id.kb.se/term/uka/10399,,Annan fysik,Other Physics Topics
+https://id.kb.se/term/uka/104,,Kemi,Chemical Sciences
+https://id.kb.se/term/uka/10401,,Analytisk kemi,Analytical Chemistry
+https://id.kb.se/term/uka/10402,,Fysikalisk kemi,Physical Chemistry
+https://id.kb.se/term/uka/10403,,Materialkemi,Materials Chemistry
+https://id.kb.se/term/uka/10404,,Oorganisk kemi,Inorganic Chemistry
+https://id.kb.se/term/uka/10405,,Organisk kemi,Organic Chemistry
+https://id.kb.se/term/uka/10406,,Polymerkemi,Polymer Chemistry
+https://id.kb.se/term/uka/10407,,Teoretisk kemi,Theoretical Chemistry
+https://id.kb.se/term/uka/10499,,Annan kemi,Other Chemistry Topics
+https://id.kb.se/term/uka/105,,Geovetenskap och miljövetenskap,Earth and Related Environmental Sciences
+https://id.kb.se/term/uka/10501,,Klimatforskning,Climate Research
+https://id.kb.se/term/uka/10502,,Miljövetenskap (Samhällsvetenskapliga aspekter under 507),Environmental Sciences (social aspects to be 507)
+https://id.kb.se/term/uka/10503,,Multidisciplinär geovetenskap,"Geosciences, Multidisciplinary"
+https://id.kb.se/term/uka/10504,,Geologi,Geology
+https://id.kb.se/term/uka/10505,,Geofysik,Geophysics
+https://id.kb.se/term/uka/10506,,Geokemi,Geochemistry
+https://id.kb.se/term/uka/10507,,Naturgeografi,Physical Geography
+https://id.kb.se/term/uka/10508,,Meteorologi och atmosfärforskning,Meteorology and Atmospheric Sciences
+https://id.kb.se/term/uka/10509,,"Oceanografi, hydrologi och vattenresurser","Oceanography, Hydrology and Water Resources"
+https://id.kb.se/term/uka/10599,,Annan geovetenskap och miljövetenskap,Other Earth and Related Environmental Sciences
+https://id.kb.se/term/uka/106,,Biologi (Medicinska tillämpningar under 3 och lantbruksvetenskapliga under 4),Biological Sciences  (Medical to be 3 and Agricultural to be 4)
+https://id.kb.se/term/uka/10601,,Strukturbiologi,Structural Biology
+https://id.kb.se/term/uka/10602,,Biokemi och molekylärbiologi,Biochemistry and Molecular Biology
+https://id.kb.se/term/uka/10603,,Biofysik,Biophysics
+https://id.kb.se/term/uka/10604,,Cellbiologi,Cell Biology
+https://id.kb.se/term/uka/10605,,Immunologi (medicinsk under 30110 och lantbruksvetenskaplig under 40302),Immunology (medical  to be 30110 and agricultural to be 40302)
+https://id.kb.se/term/uka/10606,,Mikrobiologi (medicinsk under 30109 och lantbruksvetenskaplig under 40302),Microbiology (medical  to be 30109 and agricultural to be 40302)
+https://id.kb.se/term/uka/10607,,Botanik,Botany
+https://id.kb.se/term/uka/10608,,Zoologi,Zoology
+https://id.kb.se/term/uka/10609,,Genetik (medicinsk under 30107 och lantbruksvetenskaplig under 40402),Genetics (medical to be 30107 and agricultural to be 40402)
+https://id.kb.se/term/uka/10610,,Bioinformatik och systembiologi (metodutveckling under 10203),Bioinformatics and Systems Biology (methods development to be 10203)
+https://id.kb.se/term/uka/10611,,Ekologi,Ecology
+https://id.kb.se/term/uka/10612,,Biologisk systematik,Biological Systematics
+https://id.kb.se/term/uka/10613,,Etologi,Behavioural Sciences Biology
+https://id.kb.se/term/uka/10614,,Utvecklingsbiologi,Developmental Biology
+https://id.kb.se/term/uka/10615,,Evolutionsbiologi,Evolutionary Biology
+https://id.kb.se/term/uka/10699,,Annan biologi,Other Biological Topics
+https://id.kb.se/term/uka/107,,Annan naturvetenskap,Other Natural Sciences
+https://id.kb.se/term/uka/10799,,Övrig annan naturvetenskap,Other Natural Sciences not elsewhere specified
+https://id.kb.se/term/uka/2,,Teknik,Engineering and Technology
+https://id.kb.se/term/uka/201,,Samhällsbyggnadsteknik,Civil Engineering
+https://id.kb.se/term/uka/20101,,Arkitekturteknik,Architectural Engineering
+https://id.kb.se/term/uka/20102,,Byggproduktion,Construction Management
+https://id.kb.se/term/uka/20103,,Husbyggnad,Building Technologies
+https://id.kb.se/term/uka/20104,,Infrastrukturteknik,Infrastructure Engineering
+https://id.kb.se/term/uka/20105,,Transportteknik och logistik,Transport Systems and Logistics
+https://id.kb.se/term/uka/20106,,Geoteknik,Geotechnical Engineering
+https://id.kb.se/term/uka/20107,,Vattenteknik,Water Engineering
+https://id.kb.se/term/uka/20108,,Miljöanalys och bygginformationsteknik,Environmental Analysis and  Construction Information Technology
+https://id.kb.se/term/uka/20199,,Annan samhällsbyggnadsteknik,Other Civil Engineering
+https://id.kb.se/term/uka/202,,Elektroteknik och elektronik,"Electrical Engineering, Electronic Engineering, Information Engineering"
+https://id.kb.se/term/uka/20201,,Robotteknik och automation,Robotics
+https://id.kb.se/term/uka/20202,,Reglerteknik,Control Engineering
+https://id.kb.se/term/uka/20203,,Kommunikationssystem,Communication Systems
+https://id.kb.se/term/uka/20204,,Telekommunikation,Telecommunications
+https://id.kb.se/term/uka/20205,,Signalbehandling,Signal Processing
+https://id.kb.se/term/uka/20206,,Datorsystem,Computer Systems
+https://id.kb.se/term/uka/20207,,Inbäddad systemteknik,Embedded Systems
+https://id.kb.se/term/uka/20299,,Annan elektroteknik och elektronik,"Other Electrical Engineering, Electronic Engineering, Information Engineering"
+https://id.kb.se/term/uka/203,,Maskinteknik,Mechanical Engineering
+https://id.kb.se/term/uka/20301,,Teknisk mekanik,Applied Mechanics
+https://id.kb.se/term/uka/20302,,Rymd- och flygteknik,Aerospace Engineering
+https://id.kb.se/term/uka/20303,,Farkostteknik,Vehicle Engineering
+https://id.kb.se/term/uka/20304,,Energiteknik,Energy Engineering
+https://id.kb.se/term/uka/20305,,Tillförlitlighets- och kvalitetsteknik,Reliability and Maintenance
+https://id.kb.se/term/uka/20306,,Strömningsmekanik och akustik,Fluid Mechanics and Acoustics
+https://id.kb.se/term/uka/20307,,"Produktionsteknik, arbetsvetenskap och ergonomi","Production Engineering, Human Work Science and Ergonomics"
+https://id.kb.se/term/uka/20308,,"Tribologi (ytteknik omfattande friktion, nötning och smörjning)","Tribology (interacting surfaces including Friction, Lubrication and Wear)"
+https://id.kb.se/term/uka/20399,,Annan maskinteknik,Other Mechanical Engineering
+https://id.kb.se/term/uka/204,,Kemiteknik,Chemical Engineering
+https://id.kb.se/term/uka/20401,,Kemiska processer,Chemical Process Engineering
+https://id.kb.se/term/uka/20402,,Korrosionsteknik,Corrosion Engineering
+https://id.kb.se/term/uka/20403,,Polymerteknologi,Polymer Technologies
+https://id.kb.se/term/uka/20404,,Farmaceutisk synteskemi,Pharmaceutical Chemistry
+https://id.kb.se/term/uka/20499,,Annan kemiteknik,Other Chemical Engineering
+https://id.kb.se/term/uka/205,,Materialteknik,Materials Engineering
+https://id.kb.se/term/uka/20501,,Keramteknik,Ceramics
+https://id.kb.se/term/uka/20502,,Kompositmaterial och -teknik,Composite Science and Engineering
+https://id.kb.se/term/uka/20503,,"Pappers-, massa-  och fiberteknik","Paper, Pulp and Fiber Technology"
+https://id.kb.se/term/uka/20504,,"Textil-, gummi- och polymermaterial","Textile, Rubber and Polymeric Materials"
+https://id.kb.se/term/uka/20505,,"Bearbetnings-, yt- och fogningsteknik","Manufacturing, Surface and Joining Technology"
+https://id.kb.se/term/uka/20506,,Metallurgi och metalliska material,Metallurgy and Metallic Materials
+https://id.kb.se/term/uka/20599,,Annan materialteknik,Other Materials Engineering
+https://id.kb.se/term/uka/206,,Medicinteknik,Medical Engineering
+https://id.kb.se/term/uka/20601,,Medicinsk laboratorie- och mätteknik,Medical Laboratory and Measurements Technologies
+https://id.kb.se/term/uka/20602,,Medicinsk material- och protesteknik,Medical Materials
+https://id.kb.se/term/uka/20603,,Medicinsk bildbehandling,Medical Image Processing
+https://id.kb.se/term/uka/20604,,Medicinsk apparatteknik,Medical Equipment Engineering
+https://id.kb.se/term/uka/20605,,Medicinsk ergonomi,Medical Ergonomics
+https://id.kb.se/term/uka/20699,,Annan medicinteknik,Other Medical Engineering
+https://id.kb.se/term/uka/207,,Naturresursteknik,Environmental Engineering
+https://id.kb.se/term/uka/20701,,Geofysisk teknik,Geophysical Engineering
+https://id.kb.se/term/uka/20702,,Energisystem,Energy Systems
+https://id.kb.se/term/uka/20703,,Fjärranalysteknik,Remote Sensing
+https://id.kb.se/term/uka/20704,,Mineral- och gruvteknik,Mineral and Mine Engineering
+https://id.kb.se/term/uka/20705,,Marin teknik,Marine Engineering
+https://id.kb.se/term/uka/20706,,Havs- och vattendragsteknik,Ocean and River Engineering
+https://id.kb.se/term/uka/20707,,Miljöledning,Environmental Management
+https://id.kb.se/term/uka/20799,,Annan naturresursteknik,Other Environmental Engineering
+https://id.kb.se/term/uka/208,,Miljöbioteknik,Environmental Biotechnology
+https://id.kb.se/term/uka/20801,,Biosanering,Bioremediation
+https://id.kb.se/term/uka/20802,,Diagnostisk bioteknologi,Diagnostic Biotechnology
+https://id.kb.se/term/uka/20803,,Vattenbehandling,Water Treatment
+https://id.kb.se/term/uka/20804,,Bioteknisk etik,Bioethics
+https://id.kb.se/term/uka/20899,,Annan miljöbioteknik,Other Environmental Biotechnology
+https://id.kb.se/term/uka/209,,Industriell bioteknik,Industrial Biotechnology
+https://id.kb.se/term/uka/20901,,Bioprocessteknik,Bioprocess Technology
+https://id.kb.se/term/uka/20902,,Biokemikalier,Biochemicals
+https://id.kb.se/term/uka/20903,,Biomaterial,Bio Materials
+https://id.kb.se/term/uka/20904,,Bioenergi,Bioenergy
+https://id.kb.se/term/uka/20905,,Läkemedelsbioteknik,Pharmaceutical Biotechnology
+https://id.kb.se/term/uka/20906,,Biokatalys och enzymteknik,Biocatalysis and Enzyme Technology
+https://id.kb.se/term/uka/20907,,Bioteknisk apparatteknik,Bioengineering Equipment
+https://id.kb.se/term/uka/20908,,Medicinsk bioteknik,Medical Biotechnology
+https://id.kb.se/term/uka/20999,,Annan industriell bioteknik,Other Industrial Biotechnology
+https://id.kb.se/term/uka/210,,Nanoteknik,Nano-technology
+https://id.kb.se/term/uka/21001,,Nanoteknik,Nano-technology
+https://id.kb.se/term/uka/211,,Annan teknik,Other Engineering and Technologies
+https://id.kb.se/term/uka/21101,,Livsmedelsteknik,Food Engineering
+https://id.kb.se/term/uka/21102,,Mediateknik,Media Engineering
+https://id.kb.se/term/uka/21103,,Interaktionsteknik,Interaction Technologies
+https://id.kb.se/term/uka/21199,,Övrig annan teknik,Other Engineering and Technologies not elsewhere specified
+https://id.kb.se/term/uka/3,,Medicin och hälsovetenskap,Medical and Health Sciences
+https://id.kb.se/term/uka/301,,Medicinska och farmaceutiska grundvetenskaper,Basic Medicine
+https://id.kb.se/term/uka/30101,,Farmaceutiska vetenskaper,Pharmaceutical Sciences
+https://id.kb.se/term/uka/30102,,Farmakologi och toxikologi,Pharmacology and Toxicology
+https://id.kb.se/term/uka/30103,,Läkemedelskemi,Medicinal Chemistry
+https://id.kb.se/term/uka/30104,,Samhällsfarmaci och klinisk farmaci,Social and Clinical Pharmacy
+https://id.kb.se/term/uka/30105,,Neurovetenskaper,Neurosciences
+https://id.kb.se/term/uka/30106,,Fysiologi,Physiology
+https://id.kb.se/term/uka/30107,,Medicinsk genetik,Medical Genetics
+https://id.kb.se/term/uka/30108,,Cell- och molekylärbiologi,Cell and Molecular Biology
+https://id.kb.se/term/uka/30109,,Mikrobiologi inom det medicinska området,Microbiology in the medical area
+https://id.kb.se/term/uka/30110,,Immunologi inom det medicinska området,Immunology in the medical area
+https://id.kb.se/term/uka/30199,,Andra medicinska och farmaceutiska grundvetenskaper,Other Basic Medicine
+https://id.kb.se/term/uka/302,,Klinisk medicin,Clinical Medicine
+https://id.kb.se/term/uka/30201,,Anestesi och intensivvård,Anesthesiology and Intensive Care
+https://id.kb.se/term/uka/30202,,Hematologi,Hematology
+https://id.kb.se/term/uka/30203,,Cancer och onkologi,Cancer and Oncology
+https://id.kb.se/term/uka/30204,,Dermatologi och venereologi,Dermatology and Venereal Diseases
+https://id.kb.se/term/uka/30205,,Endokrinologi och diabetes,Endocrinology and Diabetes
+https://id.kb.se/term/uka/30206,,Kardiologi,Cardiac and Cardiovascular Systems
+https://id.kb.se/term/uka/30207,,Neurologi,Neurology
+https://id.kb.se/term/uka/30208,,Radiologi och bildbehandling,"Radiology, Nuclear Medicine and Medical Imaging"
+https://id.kb.se/term/uka/30209,,Infektionsmedicin,Infectious Medicine
+https://id.kb.se/term/uka/30210,,Reumatologi och inflammation,Rheumatology and Autoimmunity
+https://id.kb.se/term/uka/30211,,Ortopedi,Orthopaedics
+https://id.kb.se/term/uka/30212,,Kirurgi,Surgery
+https://id.kb.se/term/uka/30213,,Gastroenterologi,Gastroenterology and Hepatology
+https://id.kb.se/term/uka/30214,,Urologi och njurmedicin,Urology and Nephrology
+https://id.kb.se/term/uka/30215,,Psykiatri,Psychiatry
+https://id.kb.se/term/uka/30216,,Odontologi,Dentistry
+https://id.kb.se/term/uka/30217,,Oftalmologi,Ophthalmology
+https://id.kb.se/term/uka/30218,,Oto-rhino-laryngologi,Otorhinolaryngology
+https://id.kb.se/term/uka/30219,,Lungmedicin och allergi,Respiratory Medicine and Allergy
+https://id.kb.se/term/uka/30220,,Reproduktionsmedicin och gynekologi,"Obstetrics, Gynaecology and Reproductive Medicine"
+https://id.kb.se/term/uka/30221,,Pediatrik,Pediatrics
+https://id.kb.se/term/uka/30222,,Geriatrik,Geriatrics
+https://id.kb.se/term/uka/30223,,Klinisk laboratoriemedicin,Clinical Laboratory Medicine
+https://id.kb.se/term/uka/30224,,Allmänmedicin,General Practice
+https://id.kb.se/term/uka/30299,,Annan klinisk medicin,Other Clinical Medicine
+https://id.kb.se/term/uka/303,,Hälsovetenskap,Health Sciences
+https://id.kb.se/term/uka/30301,,"Hälso- och sjukvårdsorganisation, hälsopolitik och hälsoekonomi","Health Care Service and Management, Health Policy and Services and Health Economy"
+https://id.kb.se/term/uka/30302,,"Folkhälsovetenskap, global hälsa, socialmedicin och epidemiologi","Public Health, Global Health, Social Medicine and Epidemiology"
+https://id.kb.se/term/uka/30303,,Arbetsmedicin och miljömedicin,Occupational Health and Environmental Health
+https://id.kb.se/term/uka/30304,,Näringslära,Nutrition and Dietetics
+https://id.kb.se/term/uka/30305,,Omvårdnad,Nursing
+https://id.kb.se/term/uka/30306,,Arbetsterapi,Occupational Therapy
+https://id.kb.se/term/uka/30307,,Sjukgymnastik,Physiotherapy
+https://id.kb.se/term/uka/30308,,Idrottsvetenskap,Sport and Fitness Sciences
+https://id.kb.se/term/uka/30309,,Beroendelära,Substance Abuse
+https://id.kb.se/term/uka/30310,,Medicinsk etik,Medical Ethics
+https://id.kb.se/term/uka/30399,,Annan hälsovetenskap,Other Health Sciences
+https://id.kb.se/term/uka/304,,Medicinsk bioteknologi,Medical Biotechnology
+https://id.kb.se/term/uka/30401,,"Medicinsk bioteknologi (inriktn. mot cellbiologi (inkl. stamcellsbiologi), molekylärbiologi, mikrobiologi, biokemi eller biofarmaci)","Medical Biotechnology (focus on Cell Biology (incl. Stem Cell Biology), Molecular Biology, Microbiology, Biochemistry or Biopharmacy)"
+https://id.kb.se/term/uka/30402,,Biomedicinsk laboratorievetenskap/teknologi,Biomedical Laboratory Science/Technology
+https://id.kb.se/term/uka/30403,,Biomaterialvetenskap,Biomaterials Science
+https://id.kb.se/term/uka/30499,,Annan medicinsk bioteknologi,Other Medical Biotechnology
+https://id.kb.se/term/uka/305,,Annan medicin och hälsovetenskap,Other Medical and Health Sciences
+https://id.kb.se/term/uka/30501,,Rättsmedicin,Forensic Science
+https://id.kb.se/term/uka/30502,,"Gerontologi, medicinsk/hälsovetenskaplig inriktning  (Samhällsvetenskaplig inriktn.under 50999)","Gerontology, specialising in Medical and Health Sciences (specialising in Social Sciences to be 50999)"
+https://id.kb.se/term/uka/30599,,Övrig annan medicin och hälsovetenskap,Other Medical and Health Sciences not elsewhere specified
+https://id.kb.se/term/uka/4,,Lantbruksvetenskap och veterinärmedicin,Agricultural and Veterinary sciences
+https://id.kb.se/term/uka/401,,"Lantbruksvetenskap, skogsbruk och fiske","Agriculture, Forestry and Fisheries"
+https://id.kb.se/term/uka/40101,,Jordbruksvetenskap,Agricultural Science
+https://id.kb.se/term/uka/40102,,Trädgårdsvetenskap/hortikultur,Horticulture
+https://id.kb.se/term/uka/40103,,Livsmedelsvetenskap,Food Science
+https://id.kb.se/term/uka/40104,,Skogsvetenskap,Forest Science
+https://id.kb.se/term/uka/40105,,Trävetenskap,Wood Science
+https://id.kb.se/term/uka/40106,,Markvetenskap,Soil Science
+https://id.kb.se/term/uka/40107,,Fisk- och akvakulturforskning,Fish and Aquacultural Science
+https://id.kb.se/term/uka/40108,,Landskapsarkitektur,Landscape Architecture
+https://id.kb.se/term/uka/402,,Husdjursvetenskap,Animal and Dairy Sience
+https://id.kb.se/term/uka/40201,,Husdjursvetenskap,Animal and Dairy Science.
+https://id.kb.se/term/uka/403,,Veterinärmedicin,Veterinary Science
+https://id.kb.se/term/uka/40301,,Medicinsk biovetenskap,Medical Bioscience
+https://id.kb.se/term/uka/40302,,Patobiologi,Pathobiology
+https://id.kb.se/term/uka/40303,,Klinisk vetenskap,Clinical Science
+https://id.kb.se/term/uka/40304,,Annan veterinärmedicin,Other Veterinary Science
+https://id.kb.se/term/uka/404,,Bioteknologi med applikationer på växter och djur,Agricultural Biotechnology
+https://id.kb.se/term/uka/40401,,Växtbioteknologi,Plant Biotechnology
+https://id.kb.se/term/uka/40402,,Genetik och förädling inom lantbruksvetenskap,Genetics and Breeding in Agricultural Sciences
+https://id.kb.se/term/uka/405,,Annan lantbruksvetenskap,Other Agricultural Sciences
+https://id.kb.se/term/uka/40501,,Förnyelsebar bioenergi,Renewable Bioenergy Research
+https://id.kb.se/term/uka/40502,,Vilt- och fiskeförvaltning,Fish and Wildlife Management
+https://id.kb.se/term/uka/40503,,Lantbrukets arbetsmiljö och säkerhet,Agricultural Occupational Health and Safety
+https://id.kb.se/term/uka/40504,,Miljö- och  naturvårdsvetenskap,Environmental Sciences related to Agriculture and Land-use
+https://id.kb.se/term/uka/40599,,Övrig annan lantbruksvetenskap,Other Agricultural Sciences not elsewhere specified
+https://id.kb.se/term/uka/5,,Samhällsvetenskap,Social Sciences
+https://id.kb.se/term/uka/501,,Psykologi,Psychology
+https://id.kb.se/term/uka/50101,,Psykologi  (exklusive tillämpad psykologi),Psychology (excluding Applied Psychology)
+https://id.kb.se/term/uka/50102,,Tillämpad psykologi,Applied Psychology
+https://id.kb.se/term/uka/502,,Ekonomi och näringsliv,Economics and Business
+https://id.kb.se/term/uka/50201,,Nationalekonomi,Economics
+https://id.kb.se/term/uka/50202,,Företagsekonomi,Business Administration
+https://id.kb.se/term/uka/50203,,Ekonomisk historia,Economic History
+https://id.kb.se/term/uka/503,,Utbildningsvetenskap,Educational Sciences
+https://id.kb.se/term/uka/50301,,Pedagogik,Pedagogy
+https://id.kb.se/term/uka/50302,,Didaktik,Didactics
+https://id.kb.se/term/uka/50303,,Lärande,Learning
+https://id.kb.se/term/uka/50304,,Pedagogiskt arbete,Pedagogical Work
+https://id.kb.se/term/uka/504,,Sociologi,Sociology
+https://id.kb.se/term/uka/50401,,"Sociologi (exklusive socialt arbete, socialpsykologi och socialantropologi)","Sociology (excluding Social Work, Social Psychology and Social Anthropology)"
+https://id.kb.se/term/uka/50402,,Socialt arbete,Social Work
+https://id.kb.se/term/uka/50403,,Socialpsykologi,Social Psychology
+https://id.kb.se/term/uka/50404,,Socialantropologi,Social Anthropology
+https://id.kb.se/term/uka/505,,Juridik,Law
+https://id.kb.se/term/uka/50501,,Juridik (exklusive juridik och samhälle),Law (excluding Law and Society)
+https://id.kb.se/term/uka/50502,,Juridik och samhälle,Law and Society
+https://id.kb.se/term/uka/506,,Statsvetenskap,Political Science
+https://id.kb.se/term/uka/50601,,Statsvetenskap (exklusive studier av offentlig förvaltning och globaliseringsstudier),Political Science (excluding Public Administration Studies and Globalisation Studies)
+https://id.kb.se/term/uka/50602,,Studier av offentlig förvaltning,Public Administration Studies
+https://id.kb.se/term/uka/50603,,Globaliseringsstudier,Globalisation Studies
+https://id.kb.se/term/uka/507,,Social och ekonomisk geografi,Social and Economic Geography
+https://id.kb.se/term/uka/50701,,Kulturgeografi,Human Geography
+https://id.kb.se/term/uka/50702,,Ekonomisk geografi,Economic Geography
+https://id.kb.se/term/uka/508,,Medie- och kommunikationsvetenskap,Media and Communications
+https://id.kb.se/term/uka/50801,,Medievetenskap,Media Studies
+https://id.kb.se/term/uka/50802,,Kommunikationsvetenskap,Communication Studies
+https://id.kb.se/term/uka/50803,,Mänsklig interaktion med IKT,Human Aspects of ICT
+https://id.kb.se/term/uka/50804,,"Systemvetenskap, informationssystem och informatik med samhällsvetenskaplig inriktning","Information Systems, Social aspects"
+https://id.kb.se/term/uka/50805,,Biblioteks-och informationsvetenskap,Information Studies
+https://id.kb.se/term/uka/509,,Annan samhällsvetenskap,Other Social Sciences
+https://id.kb.se/term/uka/50901,,Tvärvetenskapliga studier inom samhällsvetenskap,Social Sciences Interdisciplinary
+https://id.kb.se/term/uka/50902,,Genusstudier,Gender Studies
+https://id.kb.se/term/uka/50903,,Arbetslivsstudier,Work Sciences
+https://id.kb.se/term/uka/50904,,Internationell migration och etniska relationer (IMER),International Migration and Ethnic Relations
+https://id.kb.se/term/uka/50999,,Övrig annan samhällsvetenskap,Other Social Sciences not elsewhere specified
+https://id.kb.se/term/uka/6,,Humaniora och konst,Humanities and the Arts
+https://id.kb.se/term/uka/601,,Historia och arkeologi,History and Archaeology
+https://id.kb.se/term/uka/60101,,Historia,History
+https://id.kb.se/term/uka/60102,,Teknikhistoria,History of Technology
+https://id.kb.se/term/uka/60103,,Arkeologi,Archaeology
+https://id.kb.se/term/uka/602,,Språk och litteratur,Languages and Literature
+https://id.kb.se/term/uka/60201,,Jämförande språkvetenskap och allmän lingvistik,General Language Studies and Linguistics
+https://id.kb.se/term/uka/60202,,Studier av enskilda språk,Specific Languages
+https://id.kb.se/term/uka/60203,,Litteraturvetenskap,General Literary studies
+https://id.kb.se/term/uka/60204,,Litteraturstudier,Specific Literatures
+https://id.kb.se/term/uka/603,,"Filosofi, etik och religion","Philosophy, Ethics and Religion"
+https://id.kb.se/term/uka/60301,,Filosofi,Philosophy
+https://id.kb.se/term/uka/60302,,Etik,Ethics
+https://id.kb.se/term/uka/60303,,Religionsvetenskap,Religious Studies
+https://id.kb.se/term/uka/60304,,Religionshistoria,History of Religions
+https://id.kb.se/term/uka/60305,,Idé- och lärdomshistoria,History of Ideas
+https://id.kb.se/term/uka/604,,Konst,Arts
+https://id.kb.se/term/uka/60401,,Bildkonst,Visual Arts
+https://id.kb.se/term/uka/60402,,Musik,Music
+https://id.kb.se/term/uka/60403,,Litterär gestaltning,Literary Composition
+https://id.kb.se/term/uka/60404,,Scenkonst,Performing Arts
+https://id.kb.se/term/uka/60405,,Arkitektur,Architecture
 https://id.kb.se/term/uka/60406,,Design,Design
-https://id.kb.se/term/uka/60407,,Art History,Konstvetenskap
-https://id.kb.se/term/uka/60408,,Musicology,Musikvetenskap
-https://id.kb.se/term/uka/60409,,Performing Art Studies,Teatervetenskap
-https://id.kb.se/term/uka/60410,,Studies on Film,Filmvetenskap
-https://id.kb.se/term/uka/605,,Other Humanities,Annan humaniora
-https://id.kb.se/term/uka/60501,,Classical Archaeology and Ancient History,Antikvetenskap
-https://id.kb.se/term/uka/60502,,Cultural Studies,Kulturstudier
-https://id.kb.se/term/uka/60503,,Ethnology,Etnologi
-https://id.kb.se/term/uka/60599,,Other Humanities not elsewhere specified,Övrig annan humaniora
+https://id.kb.se/term/uka/60407,,Konstvetenskap,Art History
+https://id.kb.se/term/uka/60408,,Musikvetenskap,Musicology
+https://id.kb.se/term/uka/60409,,Teatervetenskap,Performing Art Studies
+https://id.kb.se/term/uka/60410,,Filmvetenskap,Studies on Film
+https://id.kb.se/term/uka/605,,Annan humaniora,Other Humanities
+https://id.kb.se/term/uka/60501,,Antikvetenskap,Classical Archaeology and Ancient History
+https://id.kb.se/term/uka/60502,,Kulturstudier,Cultural Studies
+https://id.kb.se/term/uka/60503,,Etnologi,Ethnology
+https://id.kb.se/term/uka/60599,,Övrig annan humaniora,Other Humanities not elsewhere specified
