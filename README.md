@@ -68,6 +68,15 @@ the entirety of Swepub.
 Note that the `omikuji-train.txt` files are not necessary for running the API
 (especially the English one gets quite large) and should NOT be committed to the repo.
 
+Additionally, for practical reasons, we _do_ like to keep the latest models in this Git repo without having to use
+Git LFS or similar, so as to not exceed GitHub limits we use [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+to remove large files from history after updating the models (i.e. we forcibly rewrite the Git history):
+
+```
+java -jar ~/somewhere/bfg-1.14.0.jar --delete-files '{*.cbor,vectorizer}'
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+```
+
 ## (Re)generate ssif_terms.ttl
 `ssif_terms.csv` was created from the Excel version of "Standard för svensk indelning av forskningsämnen 2011 (uppdaterad augusti 2016)"
 found [here](https://web.archive.org/web/20230201060649/https://www.uka.se/statistik--analys/information-om-statistiken/amneslistor-och-huvudomraden/2017-02-14-forskningsamnen.html).
