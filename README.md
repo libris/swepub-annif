@@ -49,8 +49,8 @@ source ./venv/bin/activate
 bash misc/create_tsv_sets.sh en 0 3 5 ~/annif-input
 bash misc/create_tsv_sets.sh sv 0 3 5 ~/annif-input
 cd ~/annif-input
-tail -n 800000 training_and_validation_en.tsv | gzip > swepub_en.tsv.gz
-tail -n 800000 training_and_validation_sv.tsv | gzip > swepub_sv.tsv.gz
+tail -n 800000 training_en.tsv | gzip > training_en.tsv.gz
+tail -n 800000 training_sv.tsv | gzip > training_sv.tsv.gz
 ```
 
 In _this_ repo and its own venv, train Annif:
@@ -69,7 +69,7 @@ Note that the `omikuji-train.txt` files are not necessary for running the API
 (especially the English one gets quite large) and should NOT be committed to the repo.
 
 ## (Re)generate ssif_terms.ttl
-`ssif_terms.csv` was created from the Excel version of "Standard för svensk indelning av forskningsämnen 2011 (uppdaterad augusti 2016")
+`ssif_terms.csv` was created from the Excel version of "Standard för svensk indelning av forskningsämnen 2011 (uppdaterad augusti 2016)"
 found [here](https://web.archive.org/web/20230201060649/https://www.uka.se/statistik--analys/information-om-statistiken/amneslistor-och-huvudomraden/2017-02-14-forskningsamnen.html).
 
 `ssif_terms.ttl` is generated with:
