@@ -1,309 +1,346 @@
 uri,notation,label_sv,label_en
-https://id.kb.se/term/ssif/1,,Naturvetenskap,Natural sciences
-https://id.kb.se/term/ssif/101,,Matematik,Mathematics
-https://id.kb.se/term/ssif/10101,,Matematisk analys,Mathematical Analysis
-https://id.kb.se/term/ssif/10102,,Geometri,Geometry
-https://id.kb.se/term/ssif/10103,,Algebra och logik,Algebra and Logic
-https://id.kb.se/term/ssif/10104,,Diskret matematik,Discrete Mathematics
-https://id.kb.se/term/ssif/10105,,Beräkningsmatematik,Computational Mathematics
-https://id.kb.se/term/ssif/10106,,Sannolikhetsteori och statistik,Probability Theory and Statistics
-https://id.kb.se/term/ssif/10199,,Annan matematik,Other Mathematics
-https://id.kb.se/term/ssif/102,,Data- och informationsvetenskap (Datateknik),Computer and Information Sciences
-https://id.kb.se/term/ssif/10201,,Datavetenskap (datalogi),Computer Sciences
-https://id.kb.se/term/ssif/10202,,"Systemvetenskap, informationssystem och informatik (samhällsvetenskaplig inriktning under 50804)",Information Systems (Social aspects to be 50804)
-https://id.kb.se/term/ssif/10203,,Bioinformatik (beräkningsbiologi) (tillämpningar under 10610),Bioinformatics (Computational Biology) (applications to be 10610)
-https://id.kb.se/term/ssif/10204,,Människa-datorinteraktion (interaktionsdesign) (Samhällsvetenskapliga aspekter under 50803),Human Computer Interaction (Social aspects to be 50803)
-https://id.kb.se/term/ssif/10205,,Programvaruteknik,Software Engineering
-https://id.kb.se/term/ssif/10206,,Datorteknik,Computer Engineering
-https://id.kb.se/term/ssif/10207,,Datorseende och robotik (autonoma system),Computer Vision and Robotics (Autonomous Systems)
-https://id.kb.se/term/ssif/10208,,Språkteknologi (språkvetenskaplig databehandling),Language Technology (Computational Linguistics)
-https://id.kb.se/term/ssif/10209,,Medieteknik,Media and Communication Technology
-https://id.kb.se/term/ssif/10299,,Annan data- och informationsvetenskap,Other Computer and Information Science
-https://id.kb.se/term/ssif/103,,Fysik,Physical Sciences
-https://id.kb.se/term/ssif/10301,,Subatomär fysik,Subatomic Physics
-https://id.kb.se/term/ssif/10302,,Atom- och molekylfysik och optik,Atom and Molecular Physics and Optics
-https://id.kb.se/term/ssif/10303,,"Fusion, plasma och rymdfysik","Fusion, Plasma and Space Physics"
-https://id.kb.se/term/ssif/10304,,Den kondenserade materiens fysik,Condensed Matter Physics
-https://id.kb.se/term/ssif/10305,,"Astronomi, astrofysik och kosmologi","Astronomy, Astrophysics and Cosmology"
-https://id.kb.se/term/ssif/10306,,Acceleratorfysik och instrumentering,Accelerator Physics and Instrumentation
-https://id.kb.se/term/ssif/10399,,Annan fysik,Other Physics Topics
-https://id.kb.se/term/ssif/104,,Kemi,Chemical Sciences
-https://id.kb.se/term/ssif/10401,,Analytisk kemi,Analytical Chemistry
-https://id.kb.se/term/ssif/10402,,Fysikalisk kemi,Physical Chemistry
-https://id.kb.se/term/ssif/10403,,Materialkemi,Materials Chemistry
-https://id.kb.se/term/ssif/10404,,Oorganisk kemi,Inorganic Chemistry
-https://id.kb.se/term/ssif/10405,,Organisk kemi,Organic Chemistry
-https://id.kb.se/term/ssif/10406,,Polymerkemi,Polymer Chemistry
-https://id.kb.se/term/ssif/10407,,Teoretisk kemi,Theoretical Chemistry
-https://id.kb.se/term/ssif/10499,,Annan kemi,Other Chemistry Topics
-https://id.kb.se/term/ssif/105,,Geovetenskap och miljövetenskap,Earth and Related Environmental Sciences
-https://id.kb.se/term/ssif/10501,,Klimatforskning,Climate Research
-https://id.kb.se/term/ssif/10502,,Miljövetenskap (Samhällsvetenskapliga aspekter under 507),Environmental Sciences (social aspects to be 507)
-https://id.kb.se/term/ssif/10503,,Multidisciplinär geovetenskap,"Geosciences, Multidisciplinary"
-https://id.kb.se/term/ssif/10504,,Geologi,Geology
-https://id.kb.se/term/ssif/10505,,Geofysik,Geophysics
-https://id.kb.se/term/ssif/10506,,Geokemi,Geochemistry
-https://id.kb.se/term/ssif/10507,,Naturgeografi,Physical Geography
-https://id.kb.se/term/ssif/10508,,Meteorologi och atmosfärforskning,Meteorology and Atmospheric Sciences
-https://id.kb.se/term/ssif/10509,,"Oceanografi, hydrologi och vattenresurser","Oceanography, Hydrology and Water Resources"
-https://id.kb.se/term/ssif/10599,,Annan geovetenskap och miljövetenskap,Other Earth and Related Environmental Sciences
-https://id.kb.se/term/ssif/106,,Biologi (Medicinska tillämpningar under 3 och lantbruksvetenskapliga under 4),Biological Sciences  (Medical to be 3 and Agricultural to be 4)
-https://id.kb.se/term/ssif/10601,,Strukturbiologi,Structural Biology
-https://id.kb.se/term/ssif/10602,,Biokemi och molekylärbiologi,Biochemistry and Molecular Biology
-https://id.kb.se/term/ssif/10603,,Biofysik,Biophysics
-https://id.kb.se/term/ssif/10604,,Cellbiologi,Cell Biology
-https://id.kb.se/term/ssif/10605,,Immunologi (medicinsk under 30110 och lantbruksvetenskaplig under 40302),Immunology (medical  to be 30110 and agricultural to be 40302)
-https://id.kb.se/term/ssif/10606,,Mikrobiologi (medicinsk under 30109 och lantbruksvetenskaplig under 40302),Microbiology (medical  to be 30109 and agricultural to be 40302)
-https://id.kb.se/term/ssif/10607,,Botanik,Botany
-https://id.kb.se/term/ssif/10608,,Zoologi,Zoology
-https://id.kb.se/term/ssif/10609,,Genetik (medicinsk under 30107 och lantbruksvetenskaplig under 40402),Genetics (medical to be 30107 and agricultural to be 40402)
-https://id.kb.se/term/ssif/10610,,Bioinformatik och systembiologi (metodutveckling under 10203),Bioinformatics and Systems Biology (methods development to be 10203)
-https://id.kb.se/term/ssif/10611,,Ekologi,Ecology
-https://id.kb.se/term/ssif/10612,,Biologisk systematik,Biological Systematics
-https://id.kb.se/term/ssif/10613,,Etologi,Behavioural Sciences Biology
-https://id.kb.se/term/ssif/10614,,Utvecklingsbiologi,Developmental Biology
-https://id.kb.se/term/ssif/10615,,Evolutionsbiologi,Evolutionary Biology
-https://id.kb.se/term/ssif/10699,,Annan biologi,Other Biological Topics
-https://id.kb.se/term/ssif/107,,Annan naturvetenskap,Other Natural Sciences
-https://id.kb.se/term/ssif/10799,,Övrig annan naturvetenskap,Other Natural Sciences not elsewhere specified
-https://id.kb.se/term/ssif/2,,Teknik,Engineering and Technology
-https://id.kb.se/term/ssif/201,,Samhällsbyggnadsteknik,Civil Engineering
-https://id.kb.se/term/ssif/20101,,Arkitekturteknik,Architectural Engineering
-https://id.kb.se/term/ssif/20102,,Byggproduktion,Construction Management
-https://id.kb.se/term/ssif/20103,,Husbyggnad,Building Technologies
-https://id.kb.se/term/ssif/20104,,Infrastrukturteknik,Infrastructure Engineering
-https://id.kb.se/term/ssif/20105,,Transportteknik och logistik,Transport Systems and Logistics
-https://id.kb.se/term/ssif/20106,,Geoteknik,Geotechnical Engineering
-https://id.kb.se/term/ssif/20107,,Vattenteknik,Water Engineering
-https://id.kb.se/term/ssif/20108,,Miljöanalys och bygginformationsteknik,Environmental Analysis and  Construction Information Technology
-https://id.kb.se/term/ssif/20199,,Annan samhällsbyggnadsteknik,Other Civil Engineering
-https://id.kb.se/term/ssif/202,,Elektroteknik och elektronik,"Electrical Engineering, Electronic Engineering, Information Engineering"
-https://id.kb.se/term/ssif/20201,,Robotteknik och automation,Robotics
-https://id.kb.se/term/ssif/20202,,Reglerteknik,Control Engineering
-https://id.kb.se/term/ssif/20203,,Kommunikationssystem,Communication Systems
-https://id.kb.se/term/ssif/20204,,Telekommunikation,Telecommunications
-https://id.kb.se/term/ssif/20205,,Signalbehandling,Signal Processing
-https://id.kb.se/term/ssif/20206,,Datorsystem,Computer Systems
-https://id.kb.se/term/ssif/20207,,Inbäddad systemteknik,Embedded Systems
-https://id.kb.se/term/ssif/20299,,Annan elektroteknik och elektronik,"Other Electrical Engineering, Electronic Engineering, Information Engineering"
-https://id.kb.se/term/ssif/203,,Maskinteknik,Mechanical Engineering
-https://id.kb.se/term/ssif/20301,,Teknisk mekanik,Applied Mechanics
-https://id.kb.se/term/ssif/20302,,Rymd- och flygteknik,Aerospace Engineering
-https://id.kb.se/term/ssif/20303,,Farkostteknik,Vehicle Engineering
-https://id.kb.se/term/ssif/20304,,Energiteknik,Energy Engineering
-https://id.kb.se/term/ssif/20305,,Tillförlitlighets- och kvalitetsteknik,Reliability and Maintenance
-https://id.kb.se/term/ssif/20306,,Strömningsmekanik och akustik,Fluid Mechanics and Acoustics
-https://id.kb.se/term/ssif/20307,,"Produktionsteknik, arbetsvetenskap och ergonomi","Production Engineering, Human Work Science and Ergonomics"
-https://id.kb.se/term/ssif/20308,,"Tribologi (ytteknik omfattande friktion, nötning och smörjning)","Tribology (interacting surfaces including Friction, Lubrication and Wear)"
-https://id.kb.se/term/ssif/20399,,Annan maskinteknik,Other Mechanical Engineering
-https://id.kb.se/term/ssif/204,,Kemiteknik,Chemical Engineering
-https://id.kb.se/term/ssif/20401,,Kemiska processer,Chemical Process Engineering
-https://id.kb.se/term/ssif/20402,,Korrosionsteknik,Corrosion Engineering
-https://id.kb.se/term/ssif/20403,,Polymerteknologi,Polymer Technologies
-https://id.kb.se/term/ssif/20404,,Farmaceutisk synteskemi,Pharmaceutical Chemistry
-https://id.kb.se/term/ssif/20499,,Annan kemiteknik,Other Chemical Engineering
-https://id.kb.se/term/ssif/205,,Materialteknik,Materials Engineering
-https://id.kb.se/term/ssif/20501,,Keramteknik,Ceramics
-https://id.kb.se/term/ssif/20502,,Kompositmaterial och -teknik,Composite Science and Engineering
-https://id.kb.se/term/ssif/20503,,"Pappers-, massa-  och fiberteknik","Paper, Pulp and Fiber Technology"
-https://id.kb.se/term/ssif/20504,,"Textil-, gummi- och polymermaterial","Textile, Rubber and Polymeric Materials"
-https://id.kb.se/term/ssif/20505,,"Bearbetnings-, yt- och fogningsteknik","Manufacturing, Surface and Joining Technology"
-https://id.kb.se/term/ssif/20506,,Metallurgi och metalliska material,Metallurgy and Metallic Materials
-https://id.kb.se/term/ssif/20599,,Annan materialteknik,Other Materials Engineering
-https://id.kb.se/term/ssif/206,,Medicinteknik,Medical Engineering
-https://id.kb.se/term/ssif/20601,,Medicinsk laboratorie- och mätteknik,Medical Laboratory and Measurements Technologies
-https://id.kb.se/term/ssif/20602,,Medicinsk material- och protesteknik,Medical Materials
-https://id.kb.se/term/ssif/20603,,Medicinsk bildbehandling,Medical Image Processing
-https://id.kb.se/term/ssif/20604,,Medicinsk apparatteknik,Medical Equipment Engineering
-https://id.kb.se/term/ssif/20605,,Medicinsk ergonomi,Medical Ergonomics
-https://id.kb.se/term/ssif/20699,,Annan medicinteknik,Other Medical Engineering
-https://id.kb.se/term/ssif/207,,Naturresursteknik,Environmental Engineering
-https://id.kb.se/term/ssif/20701,,Geofysisk teknik,Geophysical Engineering
-https://id.kb.se/term/ssif/20702,,Energisystem,Energy Systems
-https://id.kb.se/term/ssif/20703,,Fjärranalysteknik,Remote Sensing
-https://id.kb.se/term/ssif/20704,,Mineral- och gruvteknik,Mineral and Mine Engineering
-https://id.kb.se/term/ssif/20705,,Marin teknik,Marine Engineering
-https://id.kb.se/term/ssif/20706,,Havs- och vattendragsteknik,Ocean and River Engineering
-https://id.kb.se/term/ssif/20707,,Miljöledning,Environmental Management
-https://id.kb.se/term/ssif/20799,,Annan naturresursteknik,Other Environmental Engineering
-https://id.kb.se/term/ssif/208,,Miljöbioteknik,Environmental Biotechnology
-https://id.kb.se/term/ssif/20801,,Biosanering,Bioremediation
-https://id.kb.se/term/ssif/20802,,Diagnostisk bioteknologi,Diagnostic Biotechnology
-https://id.kb.se/term/ssif/20803,,Vattenbehandling,Water Treatment
-https://id.kb.se/term/ssif/20804,,Bioteknisk etik,Bioethics
-https://id.kb.se/term/ssif/20899,,Annan miljöbioteknik,Other Environmental Biotechnology
-https://id.kb.se/term/ssif/209,,Industriell bioteknik,Industrial Biotechnology
-https://id.kb.se/term/ssif/20901,,Bioprocessteknik,Bioprocess Technology
-https://id.kb.se/term/ssif/20902,,Biokemikalier,Biochemicals
-https://id.kb.se/term/ssif/20903,,Biomaterial,Bio Materials
-https://id.kb.se/term/ssif/20904,,Bioenergi,Bioenergy
-https://id.kb.se/term/ssif/20905,,Läkemedelsbioteknik,Pharmaceutical Biotechnology
-https://id.kb.se/term/ssif/20906,,Biokatalys och enzymteknik,Biocatalysis and Enzyme Technology
-https://id.kb.se/term/ssif/20907,,Bioteknisk apparatteknik,Bioengineering Equipment
-https://id.kb.se/term/ssif/20908,,Medicinsk bioteknik,Medical Biotechnology
-https://id.kb.se/term/ssif/20999,,Annan industriell bioteknik,Other Industrial Biotechnology
-https://id.kb.se/term/ssif/210,,Nanoteknik,Nano-technology
-https://id.kb.se/term/ssif/21001,,Nanoteknik,Nano-technology
-https://id.kb.se/term/ssif/211,,Annan teknik,Other Engineering and Technologies
-https://id.kb.se/term/ssif/21101,,Livsmedelsteknik,Food Engineering
-https://id.kb.se/term/ssif/21102,,Mediateknik,Media Engineering
-https://id.kb.se/term/ssif/21103,,Interaktionsteknik,Interaction Technologies
-https://id.kb.se/term/ssif/21199,,Övrig annan teknik,Other Engineering and Technologies not elsewhere specified
-https://id.kb.se/term/ssif/3,,Medicin och hälsovetenskap,Medical and Health Sciences
-https://id.kb.se/term/ssif/301,,Medicinska och farmaceutiska grundvetenskaper,Basic Medicine
-https://id.kb.se/term/ssif/30101,,Farmaceutiska vetenskaper,Pharmaceutical Sciences
-https://id.kb.se/term/ssif/30102,,Farmakologi och toxikologi,Pharmacology and Toxicology
-https://id.kb.se/term/ssif/30103,,Läkemedelskemi,Medicinal Chemistry
-https://id.kb.se/term/ssif/30104,,Samhällsfarmaci och klinisk farmaci,Social and Clinical Pharmacy
-https://id.kb.se/term/ssif/30105,,Neurovetenskaper,Neurosciences
-https://id.kb.se/term/ssif/30106,,Fysiologi,Physiology
-https://id.kb.se/term/ssif/30107,,Medicinsk genetik,Medical Genetics
-https://id.kb.se/term/ssif/30108,,Cell- och molekylärbiologi,Cell and Molecular Biology
-https://id.kb.se/term/ssif/30109,,Mikrobiologi inom det medicinska området,Microbiology in the medical area
-https://id.kb.se/term/ssif/30110,,Immunologi inom det medicinska området,Immunology in the medical area
-https://id.kb.se/term/ssif/30199,,Andra medicinska och farmaceutiska grundvetenskaper,Other Basic Medicine
-https://id.kb.se/term/ssif/302,,Klinisk medicin,Clinical Medicine
-https://id.kb.se/term/ssif/30201,,Anestesi och intensivvård,Anesthesiology and Intensive Care
-https://id.kb.se/term/ssif/30202,,Hematologi,Hematology
-https://id.kb.se/term/ssif/30203,,Cancer och onkologi,Cancer and Oncology
-https://id.kb.se/term/ssif/30204,,Dermatologi och venereologi,Dermatology and Venereal Diseases
-https://id.kb.se/term/ssif/30205,,Endokrinologi och diabetes,Endocrinology and Diabetes
-https://id.kb.se/term/ssif/30206,,Kardiologi,Cardiac and Cardiovascular Systems
-https://id.kb.se/term/ssif/30207,,Neurologi,Neurology
-https://id.kb.se/term/ssif/30208,,Radiologi och bildbehandling,"Radiology, Nuclear Medicine and Medical Imaging"
-https://id.kb.se/term/ssif/30209,,Infektionsmedicin,Infectious Medicine
-https://id.kb.se/term/ssif/30210,,Reumatologi och inflammation,Rheumatology and Autoimmunity
-https://id.kb.se/term/ssif/30211,,Ortopedi,Orthopaedics
-https://id.kb.se/term/ssif/30212,,Kirurgi,Surgery
-https://id.kb.se/term/ssif/30213,,Gastroenterologi,Gastroenterology and Hepatology
-https://id.kb.se/term/ssif/30214,,Urologi och njurmedicin,Urology and Nephrology
-https://id.kb.se/term/ssif/30215,,Psykiatri,Psychiatry
-https://id.kb.se/term/ssif/30216,,Odontologi,Dentistry
-https://id.kb.se/term/ssif/30217,,Oftalmologi,Ophthalmology
-https://id.kb.se/term/ssif/30218,,Oto-rhino-laryngologi,Otorhinolaryngology
-https://id.kb.se/term/ssif/30219,,Lungmedicin och allergi,Respiratory Medicine and Allergy
-https://id.kb.se/term/ssif/30220,,Reproduktionsmedicin och gynekologi,"Obstetrics, Gynaecology and Reproductive Medicine"
-https://id.kb.se/term/ssif/30221,,Pediatrik,Pediatrics
-https://id.kb.se/term/ssif/30222,,Geriatrik,Geriatrics
-https://id.kb.se/term/ssif/30223,,Klinisk laboratoriemedicin,Clinical Laboratory Medicine
-https://id.kb.se/term/ssif/30224,,Allmänmedicin,General Practice
-https://id.kb.se/term/ssif/30299,,Annan klinisk medicin,Other Clinical Medicine
-https://id.kb.se/term/ssif/303,,Hälsovetenskap,Health Sciences
-https://id.kb.se/term/ssif/30301,,"Hälso- och sjukvårdsorganisation, hälsopolitik och hälsoekonomi","Health Care Service and Management, Health Policy and Services and Health Economy"
-https://id.kb.se/term/ssif/30302,,"Folkhälsovetenskap, global hälsa, socialmedicin och epidemiologi","Public Health, Global Health, Social Medicine and Epidemiology"
-https://id.kb.se/term/ssif/30303,,Arbetsmedicin och miljömedicin,Occupational Health and Environmental Health
-https://id.kb.se/term/ssif/30304,,Näringslära,Nutrition and Dietetics
-https://id.kb.se/term/ssif/30305,,Omvårdnad,Nursing
-https://id.kb.se/term/ssif/30306,,Arbetsterapi,Occupational Therapy
-https://id.kb.se/term/ssif/30307,,Sjukgymnastik,Physiotherapy
-https://id.kb.se/term/ssif/30308,,Idrottsvetenskap,Sport and Fitness Sciences
-https://id.kb.se/term/ssif/30309,,Beroendelära,Substance Abuse
-https://id.kb.se/term/ssif/30310,,Medicinsk etik,Medical Ethics
-https://id.kb.se/term/ssif/30399,,Annan hälsovetenskap,Other Health Sciences
-https://id.kb.se/term/ssif/304,,Medicinsk bioteknologi,Medical Biotechnology
-https://id.kb.se/term/ssif/30401,,"Medicinsk bioteknologi (inriktn. mot cellbiologi (inkl. stamcellsbiologi), molekylärbiologi, mikrobiologi, biokemi eller biofarmaci)","Medical Biotechnology (focus on Cell Biology (incl. Stem Cell Biology), Molecular Biology, Microbiology, Biochemistry or Biopharmacy)"
-https://id.kb.se/term/ssif/30402,,Biomedicinsk laboratorievetenskap/teknologi,Biomedical Laboratory Science/Technology
-https://id.kb.se/term/ssif/30403,,Biomaterialvetenskap,Biomaterials Science
-https://id.kb.se/term/ssif/30499,,Annan medicinsk bioteknologi,Other Medical Biotechnology
-https://id.kb.se/term/ssif/305,,Annan medicin och hälsovetenskap,Other Medical and Health Sciences
-https://id.kb.se/term/ssif/30501,,Rättsmedicin,Forensic Science
-https://id.kb.se/term/ssif/30502,,"Gerontologi, medicinsk/hälsovetenskaplig inriktning  (Samhällsvetenskaplig inriktn.under 50999)","Gerontology, specialising in Medical and Health Sciences (specialising in Social Sciences to be 50999)"
-https://id.kb.se/term/ssif/30599,,Övrig annan medicin och hälsovetenskap,Other Medical and Health Sciences not elsewhere specified
-https://id.kb.se/term/ssif/4,,Lantbruksvetenskap och veterinärmedicin,Agricultural and Veterinary sciences
-https://id.kb.se/term/ssif/401,,"Lantbruksvetenskap, skogsbruk och fiske","Agriculture, Forestry and Fisheries"
-https://id.kb.se/term/ssif/40101,,Jordbruksvetenskap,Agricultural Science
-https://id.kb.se/term/ssif/40102,,Trädgårdsvetenskap/hortikultur,Horticulture
-https://id.kb.se/term/ssif/40103,,Livsmedelsvetenskap,Food Science
-https://id.kb.se/term/ssif/40104,,Skogsvetenskap,Forest Science
-https://id.kb.se/term/ssif/40105,,Trävetenskap,Wood Science
-https://id.kb.se/term/ssif/40106,,Markvetenskap,Soil Science
-https://id.kb.se/term/ssif/40107,,Fisk- och akvakulturforskning,Fish and Aquacultural Science
-https://id.kb.se/term/ssif/40108,,Landskapsarkitektur,Landscape Architecture
-https://id.kb.se/term/ssif/402,,Husdjursvetenskap,Animal and Dairy Sience
-https://id.kb.se/term/ssif/40201,,Husdjursvetenskap,Animal and Dairy Science.
-https://id.kb.se/term/ssif/403,,Veterinärmedicin,Veterinary Science
-https://id.kb.se/term/ssif/40301,,Medicinsk biovetenskap,Medical Bioscience
-https://id.kb.se/term/ssif/40302,,Patobiologi,Pathobiology
-https://id.kb.se/term/ssif/40303,,Klinisk vetenskap,Clinical Science
-https://id.kb.se/term/ssif/40304,,Annan veterinärmedicin,Other Veterinary Science
-https://id.kb.se/term/ssif/404,,Bioteknologi med applikationer på växter och djur,Agricultural Biotechnology
-https://id.kb.se/term/ssif/40401,,Växtbioteknologi,Plant Biotechnology
-https://id.kb.se/term/ssif/40402,,Genetik och förädling inom lantbruksvetenskap,Genetics and Breeding in Agricultural Sciences
-https://id.kb.se/term/ssif/405,,Annan lantbruksvetenskap,Other Agricultural Sciences
-https://id.kb.se/term/ssif/40501,,Förnyelsebar bioenergi,Renewable Bioenergy Research
-https://id.kb.se/term/ssif/40502,,Vilt- och fiskeförvaltning,Fish and Wildlife Management
-https://id.kb.se/term/ssif/40503,,Lantbrukets arbetsmiljö och säkerhet,Agricultural Occupational Health and Safety
-https://id.kb.se/term/ssif/40504,,Miljö- och  naturvårdsvetenskap,Environmental Sciences related to Agriculture and Land-use
-https://id.kb.se/term/ssif/40599,,Övrig annan lantbruksvetenskap,Other Agricultural Sciences not elsewhere specified
-https://id.kb.se/term/ssif/5,,Samhällsvetenskap,Social Sciences
-https://id.kb.se/term/ssif/501,,Psykologi,Psychology
-https://id.kb.se/term/ssif/50101,,Psykologi  (exklusive tillämpad psykologi),Psychology (excluding Applied Psychology)
-https://id.kb.se/term/ssif/50102,,Tillämpad psykologi,Applied Psychology
-https://id.kb.se/term/ssif/502,,Ekonomi och näringsliv,Economics and Business
-https://id.kb.se/term/ssif/50201,,Nationalekonomi,Economics
-https://id.kb.se/term/ssif/50202,,Företagsekonomi,Business Administration
-https://id.kb.se/term/ssif/50203,,Ekonomisk historia,Economic History
-https://id.kb.se/term/ssif/503,,Utbildningsvetenskap,Educational Sciences
-https://id.kb.se/term/ssif/50301,,Pedagogik,Pedagogy
-https://id.kb.se/term/ssif/50302,,Didaktik,Didactics
-https://id.kb.se/term/ssif/50303,,Lärande,Learning
-https://id.kb.se/term/ssif/50304,,Pedagogiskt arbete,Pedagogical Work
-https://id.kb.se/term/ssif/504,,Sociologi,Sociology
-https://id.kb.se/term/ssif/50401,,"Sociologi (exklusive socialt arbete, socialpsykologi och socialantropologi)","Sociology (excluding Social Work, Social Psychology and Social Anthropology)"
-https://id.kb.se/term/ssif/50402,,Socialt arbete,Social Work
-https://id.kb.se/term/ssif/50403,,Socialpsykologi,Social Psychology
-https://id.kb.se/term/ssif/50404,,Socialantropologi,Social Anthropology
-https://id.kb.se/term/ssif/505,,Juridik,Law
-https://id.kb.se/term/ssif/50501,,Juridik (exklusive juridik och samhälle),Law (excluding Law and Society)
-https://id.kb.se/term/ssif/50502,,Juridik och samhälle,Law and Society
-https://id.kb.se/term/ssif/506,,Statsvetenskap,Political Science
-https://id.kb.se/term/ssif/50601,,Statsvetenskap (exklusive studier av offentlig förvaltning och globaliseringsstudier),Political Science (excluding Public Administration Studies and Globalisation Studies)
-https://id.kb.se/term/ssif/50602,,Studier av offentlig förvaltning,Public Administration Studies
-https://id.kb.se/term/ssif/50603,,Globaliseringsstudier,Globalisation Studies
-https://id.kb.se/term/ssif/507,,Social och ekonomisk geografi,Social and Economic Geography
-https://id.kb.se/term/ssif/50701,,Kulturgeografi,Human Geography
-https://id.kb.se/term/ssif/50702,,Ekonomisk geografi,Economic Geography
-https://id.kb.se/term/ssif/508,,Medie- och kommunikationsvetenskap,Media and Communications
-https://id.kb.se/term/ssif/50801,,Medievetenskap,Media Studies
-https://id.kb.se/term/ssif/50802,,Kommunikationsvetenskap,Communication Studies
-https://id.kb.se/term/ssif/50803,,Mänsklig interaktion med IKT,Human Aspects of ICT
-https://id.kb.se/term/ssif/50804,,"Systemvetenskap, informationssystem och informatik med samhällsvetenskaplig inriktning","Information Systems, Social aspects"
-https://id.kb.se/term/ssif/50805,,Biblioteks-och informationsvetenskap,Information Studies
-https://id.kb.se/term/ssif/509,,Annan samhällsvetenskap,Other Social Sciences
-https://id.kb.se/term/ssif/50901,,Tvärvetenskapliga studier inom samhällsvetenskap,Social Sciences Interdisciplinary
-https://id.kb.se/term/ssif/50902,,Genusstudier,Gender Studies
-https://id.kb.se/term/ssif/50903,,Arbetslivsstudier,Work Sciences
-https://id.kb.se/term/ssif/50904,,Internationell migration och etniska relationer (IMER),International Migration and Ethnic Relations
-https://id.kb.se/term/ssif/50999,,Övrig annan samhällsvetenskap,Other Social Sciences not elsewhere specified
-https://id.kb.se/term/ssif/6,,Humaniora och konst,Humanities and the Arts
-https://id.kb.se/term/ssif/601,,Historia och arkeologi,History and Archaeology
-https://id.kb.se/term/ssif/60101,,Historia,History
-https://id.kb.se/term/ssif/60102,,Teknikhistoria,History of Technology
-https://id.kb.se/term/ssif/60103,,Arkeologi,Archaeology
-https://id.kb.se/term/ssif/602,,Språk och litteratur,Languages and Literature
-https://id.kb.se/term/ssif/60201,,Jämförande språkvetenskap och allmän lingvistik,General Language Studies and Linguistics
-https://id.kb.se/term/ssif/60202,,Studier av enskilda språk,Specific Languages
-https://id.kb.se/term/ssif/60203,,Litteraturvetenskap,General Literary studies
-https://id.kb.se/term/ssif/60204,,Litteraturstudier,Specific Literatures
-https://id.kb.se/term/ssif/603,,"Filosofi, etik och religion","Philosophy, Ethics and Religion"
-https://id.kb.se/term/ssif/60301,,Filosofi,Philosophy
-https://id.kb.se/term/ssif/60302,,Etik,Ethics
-https://id.kb.se/term/ssif/60303,,Religionsvetenskap,Religious Studies
-https://id.kb.se/term/ssif/60304,,Religionshistoria,History of Religions
-https://id.kb.se/term/ssif/60305,,Idé- och lärdomshistoria,History of Ideas
-https://id.kb.se/term/ssif/604,,Konst,Arts
-https://id.kb.se/term/ssif/60401,,Bildkonst,Visual Arts
-https://id.kb.se/term/ssif/60402,,Musik,Music
-https://id.kb.se/term/ssif/60403,,Litterär gestaltning,Literary Composition
-https://id.kb.se/term/ssif/60404,,Scenkonst,Performing Arts
-https://id.kb.se/term/ssif/60405,,Arkitektur,Architecture
-https://id.kb.se/term/ssif/60406,,Design,Design
-https://id.kb.se/term/ssif/60407,,Konstvetenskap,Art History
-https://id.kb.se/term/ssif/60408,,Musikvetenskap,Musicology
-https://id.kb.se/term/ssif/60409,,Teatervetenskap,Performing Art Studies
-https://id.kb.se/term/ssif/60410,,Filmvetenskap,Studies on Film
-https://id.kb.se/term/ssif/605,,Annan humaniora,Other Humanities
-https://id.kb.se/term/ssif/60501,,Antikvetenskap,Classical Archaeology and Ancient History
-https://id.kb.se/term/ssif/60502,,Kulturstudier,Cultural Studies
-https://id.kb.se/term/ssif/60503,,Etnologi,Ethnology
-https://id.kb.se/term/ssif/60599,,Övrig annan humaniora,Other Humanities not elsewhere specified
+https://begrepp.uka.se/SSIF/1,,Naturvetenskap,Natural sciences
+https://begrepp.uka.se/SSIF/101,,Matematik,Mathematical sciences
+https://begrepp.uka.se/SSIF/10101,,Matematisk analys,Mathematical Analysis
+https://begrepp.uka.se/SSIF/10102,,Geometri,Geometry
+https://begrepp.uka.se/SSIF/10103,,Algebra och logik,Algebra and Logic
+https://begrepp.uka.se/SSIF/10104,,Diskret matematik,Discrete Mathematics
+https://begrepp.uka.se/SSIF/10105,,Beräkningsmatematik,Computational Mathematics
+https://begrepp.uka.se/SSIF/10106,,Sannolikhetsteori och statistik (Statistik med medicinska aspekter under 30118 och samhällsvetenskapliga aspekter under 50907),Probability Theory and Statistics (Statistics with medical aspects at 30118 and with social aspects at 50907)
+https://begrepp.uka.se/SSIF/10199,,Annan matematik,Other Mathematics
+https://begrepp.uka.se/SSIF/102,,Data- och informationsvetenskap (Datateknik),Computer and Information Sciences
+https://begrepp.uka.se/SSIF/10201,,Datavetenskap (datalogi),Computer Sciences
+https://begrepp.uka.se/SSIF/10202,,"Systemvetenskap, informationssystem och informatik (Samhällsvetenskapliga aspekter under 50804)",Information Systems (Social aspects at 50804)
+https://begrepp.uka.se/SSIF/10203,,Bioinformatik (beräkningsbiologi) (Tillämpningar under 10610),Bioinformatics (Computational Biology) (Applications at 10610)
+https://begrepp.uka.se/SSIF/10204,,Människa-datorinteraktion (interaktionsdesign) (Samhällsvetenskapliga aspekter under 50804),Human Computer Interaction (Social aspects at 50804)
+https://begrepp.uka.se/SSIF/10205,,Programvaruteknik,Software Engineering
+https://begrepp.uka.se/SSIF/10206,,Datorteknik,Computer Engineering
+https://begrepp.uka.se/SSIF/10207,,Datorgrafik och datorseende (Systemtekniska aspekter under 20208),Computer graphics and computer vision (System engineering aspects at 20208)
+https://begrepp.uka.se/SSIF/10208,,Språkbehandling och datorlingvistik,Natural Language Processing
+https://begrepp.uka.se/SSIF/10210,,Artificiell intelligens,Artificial Intelligence
+https://begrepp.uka.se/SSIF/10211,,"Säkerhet, integritet och kryptologi","Security, Privacy and Cryptography"
+https://begrepp.uka.se/SSIF/10212,,Algoritmer,Algorithms
+https://begrepp.uka.se/SSIF/10213,,Formella metoder,Formal Methods
+https://begrepp.uka.se/SSIF/10214,,"Nätverks-, parallell- och distribuerad beräkning","Networked, Parallel and Distributed Computing"
+https://begrepp.uka.se/SSIF/10299,,Annan data- och informationsvetenskap,Other Computer and Information 		Science
+https://begrepp.uka.se/SSIF/103,,Fysik,Physical Sciences
+https://begrepp.uka.se/SSIF/10301,,Subatomär fysik,Subatomic Physics
+https://begrepp.uka.se/SSIF/10302,,Atom- och molekylfysik och optik,Atom and Molecular Physics and Optics
+https://begrepp.uka.se/SSIF/10303,,"Fusion, plasma och rymdfysik","Fusion, Plasma and Space Physics"
+https://begrepp.uka.se/SSIF/10304,,Den kondenserade materiens fysik,Condensed Matter Physics
+https://begrepp.uka.se/SSIF/10305,,"Astronomi, astrofysik och kosmologi","Astronomy, Astrophysics, and Cosmology"
+https://begrepp.uka.se/SSIF/10307,,Biofysik,Biophysics
+https://begrepp.uka.se/SSIF/10308,,Statistisk fysik och komplexa system,Statistical physics and complex systems
+https://begrepp.uka.se/SSIF/10399,,Annan fysik,Other Physics Topics
+https://begrepp.uka.se/SSIF/104,,Kemi,Chemical Sciences
+https://begrepp.uka.se/SSIF/10401,,Analytisk kemi,Analytical Chemistry
+https://begrepp.uka.se/SSIF/10402,,Fysikalisk kemi,Physical Chemistry
+https://begrepp.uka.se/SSIF/10403,,Materialkemi,Materials Chemistry
+https://begrepp.uka.se/SSIF/10404,,Oorganisk kemi,Inorganic Chemistry
+https://begrepp.uka.se/SSIF/10405,,Organisk kemi,Organic Chemistry
+https://begrepp.uka.se/SSIF/10406,,Polymerkemi,Polymer Chemistry
+https://begrepp.uka.se/SSIF/10407,,Teoretisk kemi,Theoretical Chemistry
+https://begrepp.uka.se/SSIF/10408,,Biokemi,Biochemistry
+https://begrepp.uka.se/SSIF/10499,,Annan kemi,Other Chemistry Topics
+https://begrepp.uka.se/SSIF/105,,Geovetenskap och relaterad miljövetenskap,Earth and Related Environmental Sciences
+https://begrepp.uka.se/SSIF/10501,,Klimatvetenskap,Climate Science
+https://begrepp.uka.se/SSIF/10502,,Miljövetenskap (Samhällsvetenskapliga aspekter under 50909 och lantbruksvetenskapliga under 40504),Environmental Sciences (Social aspects at 50909 and agricultural at 40504)
+https://begrepp.uka.se/SSIF/10503,,Multidisciplinär geovetenskap,Multidisciplinary Geosciences
+https://begrepp.uka.se/SSIF/10504,,Geologi (Geoteknik och teknisk geologi under 20106),Geology (Geotechnical Engineering and Engineering Geology at 20106)
+https://begrepp.uka.se/SSIF/10505,,Geofysik (Tillämningar med jordobservationsteknik under 20703),Geophysics (Applications with Earth Observation at 20703)
+https://begrepp.uka.se/SSIF/10506,,Geokemi,Geochemistry
+https://begrepp.uka.se/SSIF/10507,,Naturgeografi,Physical Geography
+https://begrepp.uka.se/SSIF/10508,,Meteorologi och atmosfärsvetenskap,Meteorology and Atmospheric Sciences
+https://begrepp.uka.se/SSIF/10509,,"Oceanografi, hydrologi och vattenresurser","Oceanography, Hydrology and Water Resources"
+https://begrepp.uka.se/SSIF/10510,,Paleontologi och paleoekologi,Palaeontology and Palaeoecology
+https://begrepp.uka.se/SSIF/10599,,Annan geovetenskap,Other Earth Sciences
+https://begrepp.uka.se/SSIF/106,,Biologi (Medicinska tillämpningar under 3 och lantbruksvetenskapliga under 4),Biological Sciences (Medical aspects at 3 and agricultural at 4)
+https://begrepp.uka.se/SSIF/10601,,Strukturbiologi,Structural Biology
+https://begrepp.uka.se/SSIF/10604,,Cellbiologi,Cell Biology
+https://begrepp.uka.se/SSIF/10605,,Immunologi (Medicinska aspekter under 30110 och lantbruksvetenskapliga under 40302),Immunology (Medical aspects at 30110 and agricultural at 40302)
+https://begrepp.uka.se/SSIF/10606,,Mikrobiologi (Medicinska aspekter under 30109 och lantbruksvetenskapliga under 40302),Microbiology (Medical aspects at 30109 and agricultural at 40302)
+https://begrepp.uka.se/SSIF/10607,,Botanik,Botany
+https://begrepp.uka.se/SSIF/10608,,Zoologi,Zoology
+https://begrepp.uka.se/SSIF/10609,,Genetik och genomik (Medicinska aspekter under 30107 och lantbruksvetenskapliga under 40402),Genetics and Genomics (Medical aspects at 30107 and agricultural at 40402)
+https://begrepp.uka.se/SSIF/10610,,Bioinformatik och beräkningsbiologi (Metodutveckling under 10203),Bioinformatics and Computational Biology (Methods development to be 10203)
+https://begrepp.uka.se/SSIF/10611,,Ekologi,Ecology
+https://begrepp.uka.se/SSIF/10612,,Biologisk systematik,Biological Systematics
+https://begrepp.uka.se/SSIF/10613,,Etologi,Behavioural Sciences Biology
+https://begrepp.uka.se/SSIF/10614,,Utvecklingsbiologi,Developmental Biology
+https://begrepp.uka.se/SSIF/10615,,Evolutionsbiologi,Evolutionary Biology
+https://begrepp.uka.se/SSIF/10616,,Molekylärbiologi,Molecular Biology
+https://begrepp.uka.se/SSIF/10699,,Annan biologi,Other Biological Topics
+https://begrepp.uka.se/SSIF/107,,Annan naturvetenskap,Other Natural Sciences
+https://begrepp.uka.se/SSIF/10799,,Annan naturvetenskap,Other Natural Sciences
+https://begrepp.uka.se/SSIF/2,,Teknik,Engineering and Technology
+https://begrepp.uka.se/SSIF/201,,Samhällsbyggnadsteknik,Civil Engineering
+https://begrepp.uka.se/SSIF/20101,,Arkitekturteknik,Architectural Engineering
+https://begrepp.uka.se/SSIF/20102,,Byggprocess och förvaltning,Construction Management
+https://begrepp.uka.se/SSIF/20103,,Husbyggnad,Building Technologies
+https://begrepp.uka.se/SSIF/20104,,Infrastrukturteknik,Infrastructure Engineering
+https://begrepp.uka.se/SSIF/20105,,Transportteknik och logistik,Transport Systems and Logistics
+https://begrepp.uka.se/SSIF/20106,,Geoteknik och teknisk geologi,Geotechnical Engineering and Engineering Geology
+https://begrepp.uka.se/SSIF/20107,,Vattenteknik,Water Engineering
+https://begrepp.uka.se/SSIF/20109,,Byggkonstruktion,Structural Engineering
+https://begrepp.uka.se/SSIF/20110,,Byggnadsmaterial,Building materials
+https://begrepp.uka.se/SSIF/20199,,Annan samhällsbyggnadsteknik,Other Civil Engineering
+https://begrepp.uka.se/SSIF/202,,Elektroteknik och elektronik,"Electrical Engineering, Electronic Engineering, Information Engineering"
+https://begrepp.uka.se/SSIF/20201,,Robotik och automation,Robotics and automation
+https://begrepp.uka.se/SSIF/20202,,Reglerteknik,Control Engineering
+https://begrepp.uka.se/SSIF/20203,,Kommunikationssystem,Communication Systems
+https://begrepp.uka.se/SSIF/20204,,Telekommunikation,Telecommunications
+https://begrepp.uka.se/SSIF/20205,,Signalbehandling,Signal Processing
+https://begrepp.uka.se/SSIF/20206,,Datorsystem,Computer Systems
+https://begrepp.uka.se/SSIF/20207,,Inbäddad systemteknik,Embedded Systems
+https://begrepp.uka.se/SSIF/20208,,Datorseende och lärande system (Datavetenskapliga aspekter under 10207),Computer Vision and learning System (Computer Sciences aspects in 10207)
+https://begrepp.uka.se/SSIF/20209,,Elkraftsystem och -komponenter,Power Systems and Components
+https://begrepp.uka.se/SSIF/20299,,Annan elektroteknik och elektronik,"Other Electrical Engineering, Electronic Engineering, Information Engineering"
+https://begrepp.uka.se/SSIF/203,,Maskinteknik,Mechanical Engineering
+https://begrepp.uka.se/SSIF/20301,,Teknisk mekanik,Applied Mechanics
+https://begrepp.uka.se/SSIF/20302,,Farkost och rymdteknik,Vehicle and Aerospace Engineering
+https://begrepp.uka.se/SSIF/20304,,Energiteknik,Energy Engineering
+https://begrepp.uka.se/SSIF/20305,,Tillförlitlighets- och kvalitetsteknik,Reliability and Maintenance
+https://begrepp.uka.se/SSIF/20306,,Strömningsmekanik,Fluid Mechanics
+https://begrepp.uka.se/SSIF/20307,,"Produktionsteknik, arbetsvetenskap och ergonomi","Production Engineering, Human Work Science and Ergonomics"
+https://begrepp.uka.se/SSIF/20309,,Solid- och strukturmekanik,Solid and Structural Mechanics
+https://begrepp.uka.se/SSIF/20310,,Industriell ekonomi,Industrial engineering and management
+https://begrepp.uka.se/SSIF/20399,,Annan maskinteknik,Other Mechanical Engineering
+https://begrepp.uka.se/SSIF/204,,Kemiteknik,Chemical Engineering
+https://begrepp.uka.se/SSIF/20402,,Yt- och korrosionsteknik,Surface- and Corrosion Engineering
+https://begrepp.uka.se/SSIF/20403,,Polymerteknologi,Polymer Technologies
+https://begrepp.uka.se/SSIF/20405,,Katalytiska processer,Catalytic Processes
+https://begrepp.uka.se/SSIF/20406,,Separationsprocesser,Separation Processes
+https://begrepp.uka.se/SSIF/20407,,Livsmedelsprocessteknik,Circular Food Process Technologies
+https://begrepp.uka.se/SSIF/20499,,Annan kemiteknik,Other Chemical Engineering
+https://begrepp.uka.se/SSIF/205,,Materialteknik,Materials Engineering
+https://begrepp.uka.se/SSIF/20501,,Keramiska och pulvermetallurgiska material,Ceramics and Powder Metallurgical Materials
+https://begrepp.uka.se/SSIF/20502,,Kompositmaterial och kompositteknik,Composite Science and Engineering
+https://begrepp.uka.se/SSIF/20503,,"Pappers-, massa- och fiberteknik","Paper, Pulp and Fiber Technology"
+https://begrepp.uka.se/SSIF/20504,,"Textil-, gummi- och polymermaterial","Textile, Rubber and Polymeric Materials"
+https://begrepp.uka.se/SSIF/20505,,"Bearbetnings-, yt- och fogningsteknik","Manufacturing, Surface and Joining Technology"
+https://begrepp.uka.se/SSIF/20506,,Metallurgi och metalliska material,Metallurgy and Metallic Materials
+https://begrepp.uka.se/SSIF/20599,,Annan materialteknik,Other Materials Engineering
+https://begrepp.uka.se/SSIF/206,,Medicinteknik,Medical Engineering
+https://begrepp.uka.se/SSIF/20601,,Medicinsk laboratorieteknik,Medical Laboratory Technologies
+https://begrepp.uka.se/SSIF/20602,,Medicinsk materialteknik,Medical Materials
+https://begrepp.uka.se/SSIF/20603,,Medicinsk bildvetenskap,Medical Imaging
+https://begrepp.uka.se/SSIF/20604,,Medicinsk instrumentering,Medical Instrumentation
+https://begrepp.uka.se/SSIF/20605,,Medicinsk modellering och simulering,Medical Modelling and Simulation
+https://begrepp.uka.se/SSIF/20606,,Medicinteknisk informatik (Medicinska aspekter under 30117),Medical Informatics Engineering (Medical aspects at 30117)
+https://begrepp.uka.se/SSIF/20699,,Annan medicinteknik,Other Medical Engineering
+https://begrepp.uka.se/SSIF/207,,Naturresursteknik,Environmental Engineering
+https://begrepp.uka.se/SSIF/20702,,Energisystem,Energy Systems
+https://begrepp.uka.se/SSIF/20703,,Jordobservationsteknik,Earth Observation
+https://begrepp.uka.se/SSIF/20704,,Mineral- och gruvteknik,Mineral and Mine Engineering
+https://begrepp.uka.se/SSIF/20705,,Marinteknik,Marine Engineering
+https://begrepp.uka.se/SSIF/20707,,Miljöteknik och miljöledning,Environmental Management
+https://begrepp.uka.se/SSIF/20799,,Annan naturresursteknik,Other Environmental Engineering
+https://begrepp.uka.se/SSIF/208,,Miljöbioteknik,Environmental Biotechnology
+https://begrepp.uka.se/SSIF/20801,,Biosanering,Bioremediation
+https://begrepp.uka.se/SSIF/20802,,Diagnostisk bioteknologi,Diagnostic Biotechnology
+https://begrepp.uka.se/SSIF/20803,,Vattenbehandlingsbioteknik,Water Treatment
+https://begrepp.uka.se/SSIF/20899,,Annan miljöbioteknik,Other Environmental Biotechnology
+https://begrepp.uka.se/SSIF/209,,Industriell bioteknik,Industrial Biotechnology
+https://begrepp.uka.se/SSIF/20901,,Bioprocessteknik,Bioprocess Technology
+https://begrepp.uka.se/SSIF/20902,,Biokemikalier,Biochemicals
+https://begrepp.uka.se/SSIF/20903,,Biomaterial,Bio Materials
+https://begrepp.uka.se/SSIF/20904,,Bioenergi,Bioenergy
+https://begrepp.uka.se/SSIF/20905,,Läkemedel- och medicinsk processbioteknik,Pharmaceutical and Medical Biotechnology
+https://begrepp.uka.se/SSIF/20906,,Biokatalys och enzymteknik,Biocatalysis and Enzyme Technology
+https://begrepp.uka.se/SSIF/20909,,Livsmedelsbioteknik,Food Biotechnology
+https://begrepp.uka.se/SSIF/20999,,Annan industriell bioteknik,Other Industrial Biotechnology
+https://begrepp.uka.se/SSIF/210,,Nanoteknik,Nano-technology
+https://begrepp.uka.se/SSIF/21002,,Nanoteknisk elektronik,Nanotechnology for Electronic Applications
+https://begrepp.uka.se/SSIF/21003,,Nanoteknisk materialvetenskap,Nanotechnology for Material Science
+https://begrepp.uka.se/SSIF/21004,,Nanotekniska energitillämpningar,Nanotechnology for Energy Applications
+https://begrepp.uka.se/SSIF/21005,,Nanotekniska livsvetenskaper och medicin,Nanotechnology for/in Life Science and Medicine
+https://begrepp.uka.se/SSIF/21099,,Annan nanoteknik,Other Nanotechnology
+https://begrepp.uka.se/SSIF/211,,Annan teknik,Other Engineering and Technologies
+https://begrepp.uka.se/SSIF/21199,,Annan teknik,Other Engineering and Technologies
+https://begrepp.uka.se/SSIF/3,,Medicin och hälsovetenskap,Medical and Health Sciences
+https://begrepp.uka.se/SSIF/301,,Medicinska och farmaceutiska grundvetenskaper,Basic Medicine
+https://begrepp.uka.se/SSIF/30101,,Farmaceutiska vetenskaper,Pharmaceutical Sciences
+https://begrepp.uka.se/SSIF/30102,,Farmakologi och toxikologi,Pharmacology and Toxicology
+https://begrepp.uka.se/SSIF/30103,,Läkemedelskemi (Naturvetenskaplig inriktning under 10405),Medicinal Chemistry (Natural Sciences at 10405)
+https://begrepp.uka.se/SSIF/30104,,Samhällsfarmaci och klinisk farmaci,Social and Clinical Pharmacy
+https://begrepp.uka.se/SSIF/30105,,Neurovetenskaper,Neurosciences
+https://begrepp.uka.se/SSIF/30106,,Fysiologi och anatomi,Physiology and Anatomy
+https://begrepp.uka.se/SSIF/30107,,Medicinsk genetik och genomik,Medical Genetics and Genomics
+https://begrepp.uka.se/SSIF/30108,,Cell- och molekylärbiologi,Cell and Molecular Biology
+https://begrepp.uka.se/SSIF/30109,,Mikrobiologi inom det medicinska området,Microbiology in the Medical Area
+https://begrepp.uka.se/SSIF/30110,,Immunologi inom det medicinska området,Immunology in the Medical Area
+https://begrepp.uka.se/SSIF/30111,,Medicinska biovetenskaper,Medical Life Sciences
+https://begrepp.uka.se/SSIF/30112,,Basal cancerforskning,Basic Cancer Research
+https://begrepp.uka.se/SSIF/30113,,Medicinsk bioinformatik och systembiologi,Medical Bioinformatics and Systems Biology
+https://begrepp.uka.se/SSIF/30114,,Evolution och utvecklingsgenetik,Evolution and Developmental Genetics
+https://begrepp.uka.se/SSIF/30115,,Medicinsk epigenetik och epigenomik,Medical Epigenetics and Epigenomics
+https://begrepp.uka.se/SSIF/30116,,Epidemiologi,Epidemiology
+https://begrepp.uka.se/SSIF/30117,,Medicinsk informatik (Tekniska aspekter under 20606),Medical Informatics (Technical aspects at 20606)
+https://begrepp.uka.se/SSIF/30118,,Medicinsk biostatistik,Medical Biostatistics
+https://begrepp.uka.se/SSIF/30199,,Andra medicinska och farmaceutiska grundvetenskaper,Other Basic Medicine
+https://begrepp.uka.se/SSIF/302,,Klinisk medicin,Clinical Medicine
+https://begrepp.uka.se/SSIF/30201,,Anestesi och intensivvård,Anesthesiology and Intensive Care
+https://begrepp.uka.se/SSIF/30202,,Hematologi,Hematology
+https://begrepp.uka.se/SSIF/30203,,Cancer och onkologi,Cancer and Oncology
+https://begrepp.uka.se/SSIF/30204,,Dermatologi och venereologi,Dermatology and Venereal Diseases
+https://begrepp.uka.se/SSIF/30205,,Endokrinologi och diabetes,Endocrinology and Diabetes
+https://begrepp.uka.se/SSIF/30206,,Kardiologi och kardiovaskulära sjukdomar,Cardiology and Cardiovascular Disease
+https://begrepp.uka.se/SSIF/30207,,Neurologi,Neurology
+https://begrepp.uka.se/SSIF/30208,,Radiologi och bildbehandling,Radiology and Medical Imaging
+https://begrepp.uka.se/SSIF/30209,,Infektionsmedicin,Infectious Medicine
+https://begrepp.uka.se/SSIF/30211,,Ortopedi,Orthopaedics
+https://begrepp.uka.se/SSIF/30212,,Kirurgi,Surgery
+https://begrepp.uka.se/SSIF/30213,,Gastroenterologi och hepatologi,Gastroenterology and Hepatology
+https://begrepp.uka.se/SSIF/30215,,Psykiatri,Psychiatry
+https://begrepp.uka.se/SSIF/30216,,Odontologi,Odontology
+https://begrepp.uka.se/SSIF/30217,,Oftalmologi,Ophthalmology
+https://begrepp.uka.se/SSIF/30218,,Oto-rhino-laryngologi,Oto-rhino-laryngology
+https://begrepp.uka.se/SSIF/30219,,Lungmedicin och allergi,Respiratory Medicine and Allergy
+https://begrepp.uka.se/SSIF/30220,,"Gynekologi, obstetrik och reproduktionsmedicin","Gynaecology, Obstetrics and Reproductive Medicine"
+https://begrepp.uka.se/SSIF/30221,,Pediatrik,Pediatrics
+https://begrepp.uka.se/SSIF/30222,,Geriatrik,Geriatrics
+https://begrepp.uka.se/SSIF/30223,,Klinisk laboratoriemedicin,Clinical Laboratory Medicine
+https://begrepp.uka.se/SSIF/30224,,Allmänmedicin,General Medicine
+https://begrepp.uka.se/SSIF/30225,,Reumatologi,Rheumatology
+https://begrepp.uka.se/SSIF/30226,,Autoimmunitet och inflammation,Autoimmunity and Inflammation
+https://begrepp.uka.se/SSIF/30227,,Internmedicin,Internal Medicine
+https://begrepp.uka.se/SSIF/30228,,Urologi,Urology
+https://begrepp.uka.se/SSIF/30229,,Njurmedicin,Nephrology
+https://begrepp.uka.se/SSIF/30230,,Förlossnings- och mödravård,Childbirth and Maternity care
+https://begrepp.uka.se/SSIF/30299,,Annan klinisk medicin,Other Clinical Medicine
+https://begrepp.uka.se/SSIF/303,,Hälsovetenskap,Health Sciences
+https://begrepp.uka.se/SSIF/30301,,"Hälso- och sjukvårdsorganisation, hälsopolitik och hälsoekonomi","Health Care Service and Management, Health Policy and Services and Health Economy"
+https://begrepp.uka.se/SSIF/30303,,Arbetsmedicin och miljömedicin,Occupational Health and Environmental Health
+https://begrepp.uka.se/SSIF/30304,,Näringslära och dietkunskap,Nutrition and Dietetics
+https://begrepp.uka.se/SSIF/30305,,Omvårdnad,Nursing
+https://begrepp.uka.se/SSIF/30306,,Arbetsterapi,Occupational Therapy
+https://begrepp.uka.se/SSIF/30307,,Fysioterapi,Physiotherapy
+https://begrepp.uka.se/SSIF/30308,,Idrottsvetenskap och fitness,Sport and Fitness Sciences
+https://begrepp.uka.se/SSIF/30309,,Beroendelära och missbruk,Drug Abuse and Addiction
+https://begrepp.uka.se/SSIF/30310,,Medicinsk etik,Medical Ethics
+https://begrepp.uka.se/SSIF/30311,,"Folkhälsovetenskap, global hälsa och socialmedicin","Public Health, Global Health and Social Medicine"
+https://begrepp.uka.se/SSIF/30312,,Palliativ medicin och palliativ vård,Palliative Medicine and Palliative Care
+https://begrepp.uka.se/SSIF/30313,,Oral hälsa,Oral Health
+https://begrepp.uka.se/SSIF/30314,,Rehabiliteringsmedicin,Rehabilitation Medicine
+https://begrepp.uka.se/SSIF/30399,,Annan hälsovetenskap,Other Health Sciences
+https://begrepp.uka.se/SSIF/304,,Medicinsk bioteknologi,Medical Biotechnology
+https://begrepp.uka.se/SSIF/30401,,"Medicinsk bioteknologi (Inriktn. mot cellbiologi (inkl. stamcellsbiologi), molekylärbiologi, mikrobiologi, biokemi eller biofarmaci)","Medical Biotechnology (Focus on Cell Biology (incl. Stem Cell Biology), Molecular Biology, Microbiology, Biochemistry or Biopharmacy)"
+https://begrepp.uka.se/SSIF/30402,,Biomedicinsk laboratorievetenskap/teknologi,Biomedical Laboratory Science/Technology
+https://begrepp.uka.se/SSIF/30403,,Biomaterialvetenskap,Biomaterials Science
+https://begrepp.uka.se/SSIF/30499,,Annan medicinsk bioteknologi,Other Medical Biotechnology
+https://begrepp.uka.se/SSIF/305,,Annan medicin och hälsovetenskap,Other Medical and Health Sciences
+https://begrepp.uka.se/SSIF/30501,,Rättsmedicin,Forensic Science
+https://begrepp.uka.se/SSIF/30502,,"Gerontologi, medicinsk/hälsovetenskaplig inriktning  (Samhällsvetenskaplig inriktn.under 50908)","Gerontology, specialising in Medical and Health Sciences (Specialising in Social Sciences at 50908)"
+https://begrepp.uka.se/SSIF/30599,,Övrig annan medicin och hälsovetenskap,Other Medical and Health Sciences not elsewhere specified
+https://begrepp.uka.se/SSIF/4,,Lantbruksvetenskap och veterinärmedicin,Agricultural and Veterinary sciences
+https://begrepp.uka.se/SSIF/401,,"Jordbruk, skogsbruk och fiske","Agriculture, Forestry and Fisheries"
+https://begrepp.uka.se/SSIF/40101,,Jordbruksvetenskap,Agricultural Science
+https://begrepp.uka.se/SSIF/40102,,Trädgårdsvetenskap/hortikultur,Horticulture
+https://begrepp.uka.se/SSIF/40103,,Livsmedelsvetenskap,Food Science
+https://begrepp.uka.se/SSIF/40104,,Skogsvetenskap,Forest Science
+https://begrepp.uka.se/SSIF/40105,,Trävetenskap,Wood Science
+https://begrepp.uka.se/SSIF/40106,,Markvetenskap,Soil Science
+https://begrepp.uka.se/SSIF/40107,,Fisk- och akvakulturforskning,Fish and Aquacultural Science
+https://begrepp.uka.se/SSIF/402,,Husdjursvetenskap,Animal and Dairy Science
+https://begrepp.uka.se/SSIF/40201,,Husdjursvetenskap,Animal and Dairy Science
+https://begrepp.uka.se/SSIF/403,,Veterinärmedicin,Veterinary Science
+https://begrepp.uka.se/SSIF/40301,,Medicinsk biovetenskap,Medical Bioscience
+https://begrepp.uka.se/SSIF/40302,,Patobiologi,Pathobiology
+https://begrepp.uka.se/SSIF/40303,,Klinisk vetenskap,Clinical Science
+https://begrepp.uka.se/SSIF/40399,,Annan veterinärmedicin,Other Veterinary Science
+https://begrepp.uka.se/SSIF/404,,Bioteknologi med applikationer på växter och djur,Agricultural Biotechnology
+https://begrepp.uka.se/SSIF/40401,,Växtbioteknologi,Plant Biotechnology
+https://begrepp.uka.se/SSIF/40402,,Genetik och förädling inom lantbruksvetenskap,Genetics and Breeding in Agricultural Sciences
+https://begrepp.uka.se/SSIF/405,,Annan lantbruksvetenskap,Other Agricultural Sciences
+https://begrepp.uka.se/SSIF/40502,,Vilt- och fiskeförvaltning,Fish and Wildlife Management
+https://begrepp.uka.se/SSIF/40504,,Miljö- och naturvårdsvetenskap,Environmental Sciences and Nature Conservation
+https://begrepp.uka.se/SSIF/40505,,Landskapsarkitektur,Landscape Architecture
+https://begrepp.uka.se/SSIF/40506,,Jordbruksekonomi och landsbygdsutveckling,Agricultural Economics and Management and Rural development
+https://begrepp.uka.se/SSIF/40507,,Miljöekonomi och förvaltning,Environmental Economics and Management
+https://begrepp.uka.se/SSIF/40599,,Övrig annan lantbruksvetenskap,Other Agricultural Sciences not elsewhere specified
+https://begrepp.uka.se/SSIF/5,,Samhällsvetenskap,Social Sciences
+https://begrepp.uka.se/SSIF/501,,Psykologi,Psychology
+https://begrepp.uka.se/SSIF/50101,,Psykologi  (Exklusive tillämpad psykologi),Psychology (Excluding Applied Psychology)
+https://begrepp.uka.se/SSIF/50102,,Tillämpad psykologi,Applied Psychology
+https://begrepp.uka.se/SSIF/502,,Ekonomi och näringsliv,Economics and Business
+https://begrepp.uka.se/SSIF/50201,,Nationalekonomi,Economics
+https://begrepp.uka.se/SSIF/50202,,Företagsekonomi,Business Administration
+https://begrepp.uka.se/SSIF/50203,,Ekonomisk historia,Economic History
+https://begrepp.uka.se/SSIF/503,,Utbildningsvetenskap,Educational Sciences
+https://begrepp.uka.se/SSIF/50301,,Pedagogik,Pedagogy
+https://begrepp.uka.se/SSIF/50302,,Didaktik,Didactics
+https://begrepp.uka.se/SSIF/50304,,Pedagogiskt arbete,Educational Work
+https://begrepp.uka.se/SSIF/50399,,Annan utbildningsvetenskaplig forskning,Other Educational Sciences
+https://begrepp.uka.se/SSIF/504,,Sociologi,Sociology
+https://begrepp.uka.se/SSIF/50401,,"Sociologi (Exklusive socialt arbete, socialantropologi, demografi och kriminologi)","Sociology (Excluding Social Work, Social Anthropology, Demography and Criminology)"
+https://begrepp.uka.se/SSIF/50402,,Socialt arbete,Social Work
+https://begrepp.uka.se/SSIF/50404,,Socialantropologi,Social Anthropology
+https://begrepp.uka.se/SSIF/50405,,Demografi,Demography
+https://begrepp.uka.se/SSIF/50406,,Kriminologi,Criminology
+https://begrepp.uka.se/SSIF/505,,Juridik,Law
+https://begrepp.uka.se/SSIF/50501,,Juridik,Law
+https://begrepp.uka.se/SSIF/50503,,Annan rättsvetenskaplig forskning,Other Legal Research
+https://begrepp.uka.se/SSIF/506,,Statsvetenskap,Political Science
+https://begrepp.uka.se/SSIF/50601,,Statsvetenskap (Exklusive freds- och konfliktforskning),Political Science (Excluding Peace and Conflict Studies)
+https://begrepp.uka.se/SSIF/50604,,Freds- och konfliktforskning,Peace and Conflict Studies
+https://begrepp.uka.se/SSIF/507,,Social och ekonomisk geografi,Social and Economic Geography
+https://begrepp.uka.se/SSIF/50701,,Kulturgeografi,Human Geography
+https://begrepp.uka.se/SSIF/50702,,Ekonomisk geografi,Economic Geography
+https://begrepp.uka.se/SSIF/50703,,Andra geografiska studier,Other Geographic Studies
+https://begrepp.uka.se/SSIF/508,,"Medie-, kommunikations-, och informationsvetenskaper",Media and Communications
+https://begrepp.uka.se/SSIF/50801,,Medie- och kommunikationsvetenskap,Media and Communication Studies
+https://begrepp.uka.se/SSIF/50804,,"Systemvetenskap, informationssystem och informatik med samhällsvetenskaplig inriktning","Information Systems, Social aspects"
+https://begrepp.uka.se/SSIF/50805,,Biblioteks-och informationsvetenskap,Information Studies
+https://begrepp.uka.se/SSIF/509,,Annan samhällsvetenskap,Other Social Sciences
+https://begrepp.uka.se/SSIF/50902,,Genusstudier,Gender Studies
+https://begrepp.uka.se/SSIF/50903,,Arbetslivsstudier,Work Sciences
+https://begrepp.uka.se/SSIF/50904,,Internationell migration och etniska relationer (IMER),International Migration and Ethnic Relations
+https://begrepp.uka.se/SSIF/50905,,Studier av offentlig förvaltning,Public Administration Studies
+https://begrepp.uka.se/SSIF/50906,,Utvecklingsstudier,Development Studies
+https://begrepp.uka.se/SSIF/50907,,Statistik inom samhällsvetenskap,Statistics in Social Sciences
+https://begrepp.uka.se/SSIF/50908,,Samhällsvetenskapliga hälso- och koststudier,Health and Diet Studies in Social Sciences
+https://begrepp.uka.se/SSIF/50909,,Miljövetenskapliga studier inom samhällsvetenskap,Environmental Studies in Social Sciences
+https://begrepp.uka.se/SSIF/50910,,Barn- och ungdomsvetenskap,Child and Youth Studies
+https://begrepp.uka.se/SSIF/50911,,"Krigs-, kris-, säkerhetsvetenskaper","War, Crisis, and Security Studies"
+https://begrepp.uka.se/SSIF/50912,,Teknik och samhälle,Science and Technology Studies
+https://begrepp.uka.se/SSIF/50999,,Övrig annan samhällsvetenskap,Other Social Sciences not elsewhere specified
+https://begrepp.uka.se/SSIF/6,,Humaniora och konst,Humanities and the Arts
+https://begrepp.uka.se/SSIF/601,,Historia och arkeologi,History and Archaeology
+https://begrepp.uka.se/SSIF/60101,,Historia,History
+https://begrepp.uka.se/SSIF/60102,,Teknik- och miljöhistoria,Technology and Environmental History
+https://begrepp.uka.se/SSIF/60103,,Arkeologi,Archaeology
+https://begrepp.uka.se/SSIF/60104,,Idé- och lärdomshistoria,History of Science and Ideas
+https://begrepp.uka.se/SSIF/60105,,Antikvetenskap,Classical Archaeology and Ancient History
+https://begrepp.uka.se/SSIF/602,,Språk och litteratur,Languages and Literature
+https://begrepp.uka.se/SSIF/60201,,Jämförande språkvetenskap och allmän lingvistik,Comparative Language Studies and Linguistics
+https://begrepp.uka.se/SSIF/60202,,Studier av enskilda språk,Studies of Specific Languages
+https://begrepp.uka.se/SSIF/60203,,Litteraturvetenskap,General Literary studies
+https://begrepp.uka.se/SSIF/60204,,Litteraturstudier,Studies of Specific Literatures
+https://begrepp.uka.se/SSIF/60205,,Filologi,Philology
+https://begrepp.uka.se/SSIF/60206,,Översättningsvetenskap,Translation Studies
+https://begrepp.uka.se/SSIF/60207,,Retorik,Rhetoric
+https://begrepp.uka.se/SSIF/603,,"Filosofi, etik och religion","Philosophy, Ethics and Religion"
+https://begrepp.uka.se/SSIF/60301,,Filosofi,Philosophy
+https://begrepp.uka.se/SSIF/60302,,Etik,Ethics
+https://begrepp.uka.se/SSIF/60303,,Religionsvetenskap,Religious Studies
+https://begrepp.uka.se/SSIF/60304,,Religionshistoria,History of Religions
+https://begrepp.uka.se/SSIF/60306,,Estetik,Aesthetics
+https://begrepp.uka.se/SSIF/604,,Konst,Arts
+https://begrepp.uka.se/SSIF/60407,,Konstvetenskap,Art History
+https://begrepp.uka.se/SSIF/60408,,Musikvetenskap,Musicology
+https://begrepp.uka.se/SSIF/60409,,Teatervetenskap,Performing Art Studies
+https://begrepp.uka.se/SSIF/60410,,Filmvetenskap,Film Studies
+https://begrepp.uka.se/SSIF/60411,,Fri Konst,Visual Arts
+https://begrepp.uka.se/SSIF/60412,,Musik,Music
+https://begrepp.uka.se/SSIF/60413,,Litterär gestaltning,Literary Composition
+https://begrepp.uka.se/SSIF/60414,,Scenkonst,Performing Arts
+https://begrepp.uka.se/SSIF/60415,,Arkitektur,Architecture
+https://begrepp.uka.se/SSIF/60416,,Design,Design
+https://begrepp.uka.se/SSIF/60417,,Film,Film
+https://begrepp.uka.se/SSIF/60418,,Konsthantverk,Crafts
+https://begrepp.uka.se/SSIF/60419,,Fotografi,Photography
+https://begrepp.uka.se/SSIF/605,,Annan humaniora och konst,Other Humanities
+https://begrepp.uka.se/SSIF/60502,,Kulturstudier,Cultural Studies
+https://begrepp.uka.se/SSIF/60503,,Etnologi,Ethnology
+https://begrepp.uka.se/SSIF/60504,,Tvärdiciplinära studier i humaniora och konst,Interdisciplinary Studies in Humanities and Arts
+https://begrepp.uka.se/SSIF/60599,,Övrig annan humaniora,Other Humanities not elsewhere specified
