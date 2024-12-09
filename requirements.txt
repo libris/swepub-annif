@@ -1,2 +1,2 @@
-annif==1.1
-annif[omikuji]==1.1
+annif==1.2
+annif[omikuji]==1.2
