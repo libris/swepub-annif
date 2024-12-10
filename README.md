@@ -48,8 +48,8 @@ source ./venv/bin/activate
 bash misc/create_tsv_sets.sh en 0 3 5 ~/annif-input
 bash misc/create_tsv_sets.sh sv 0 3 5 ~/annif-input
 cd ~/annif-input
-tail -n 800000 training_en.tsv | gzip > training_en.tsv.gz
-tail -n 800000 training_sv.tsv | gzip > training_sv.tsv.gz
+tail -n 700000 training_en.tsv | gzip > training_en.tsv.gz
+tail -n 700000 training_sv.tsv | gzip > training_sv.tsv.gz
 ```
 
 In _this_ repo and its own venv, train Annif:
