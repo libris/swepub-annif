@@ -77,8 +77,8 @@ git reflog expire --expire=now --all && git gc --prune=now --aggressive
 ```
 
 ## (Re)generate ssif_terms.ttl
-`ssif_terms.csv` was created from the Excel version of "Standard för svensk indelning av forskningsämnen 2011 (uppdaterad augusti 2016)"
-found [here](https://web.archive.org/web/20230201060649/https://www.uka.se/statistik--analys/information-om-statistiken/amneslistor-och-huvudomraden/2017-02-14-forskningsamnen.html).
+`ssif_terms.csv` was created from the Excel version of "Standard för svensk indelning av forskningsämnen 2025"
+found [here](https://www.uka.se/om-oss/det-har-ar-universitetskanslersambetet/flikar/projekt-och-uppdrag/reviderad-standard-for-svensk-indelning-av-forskningsamnen).
 
 `ssif_terms.ttl` is generated with:
 
