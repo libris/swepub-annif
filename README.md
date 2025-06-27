@@ -4,18 +4,19 @@ See https://github.com/NatLibFi/Annif for general Annif instructions and advice.
 
 ## Install and run
 
+Assuming https://github.com/astral-sh/uv is installed:
+
 ```bash
-python3 -m venv venv
-source ./venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
-annif run -p 8083 # then check http://localhost:8083
+git clone https://github.com/libris/swepub-annif.git
+cd swepub-annif
+uv run python -m nltk.downloader punkt_tab
+uv run annif run --port 8083 # then check http://localhost:8083
 # Instead of `annif run` (for development only), you could use gunicorn, e.g.:
 # gunicorn --workers 4 --threads 4 --worker-class gthread --bind 127.0.0.1:8083 "annif:create_app()"
 # (...and put behind e.g. nginx in a production environment)
 ```
 
-(For `pip install` to work you might need to install some dependencies, e.g. `protobuf-compiler` in Ubuntu.)
+(For Python package installation to work you might need to install some dependencies, e.g. `protobuf-compiler` in Ubuntu.)
 
 Visit http://localhost:8083 to try the Annif UI. You'll also find Swagger there.
 
@@ -42,7 +43,7 @@ it from scatch).
 First, generate corpora. In swepub-redux repo with the swepub-redux venv:
 
 ```bash
-source ./venv/bin/activate
+uv sync
 # For quick testing, replace 0 with something low (e.g. 10000).
 # 0 = get an unlimited amount of records.
 bash misc/create_tsv_sets.sh en 0 3 5 ~/annif-input
@@ -55,10 +56,9 @@ tail -n 700000 training_sv.tsv | gzip > training_sv.tsv.gz
 In _this_ repo and its own venv, train Annif:
 
 ```bash
-source ./venv/bin/activate
-annif load-vocab ssif ssif_terms.ttl
-annif train -j 0 swepub-en ~/annif-input/training_en.tsv.gz # multiple (and non-gz) files also OK
-annif train -j 0 swepub-sv ~/annif-input/training_sv.tsv.gz
+uv run annif load-vocab ssif ssif_terms.ttl
+uv run annif train -j 0 swepub-en ~/annif-input/training_en.tsv.gz # multiple (and non-gz) files also OK
+uv run annif train -j 0 swepub-sv ~/annif-input/training_sv.tsv.gz
 ```
 
 Training `swepub-en` can take more than an hour if your SQLite database contains
